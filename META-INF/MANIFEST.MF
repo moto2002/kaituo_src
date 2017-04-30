@@ -1,0 +1,930 @@
+Manifest-Version: 1.0
+Created-By: 1.7.0_79 (Oracle Corporation)
+
+Name: assets/ucgamesdk/modules/cn.uc.gamesdk.floater.apk
+SHA1-Digest: vPSCarEoDOgHvT8kqKuFKWWp6To=
+
+Name: assets/bin/Data/Managed/Assembly-CSharp.dll
+SHA1-Digest: HZnuB7P1M8f3RxiehiRQu3KXmd0=
+
+Name: assets/bin/Data/adc18827e5113bb46bc5aaf99eb25ad2
+SHA1-Digest: /hUsXp5bB5cV+YF7zebRdmWtDho=
+
+Name: lib/x86/libtolua.so
+SHA1-Digest: 4vL7RnzDA+J7pEDBW4m0f70zHNE=
+
+Name: assets/LanguageText/langtext.json
+SHA1-Digest: T22JSMJT5nrtfUwXbxD/RzzQdn8=
+
+Name: assets/bin/Data/495fbc5e59efec34d81986cc8a166c32
+SHA1-Digest: q8dnPa7DDA9ROk+vWA7jDdx7DPk=
+
+Name: assets/ucgamesdk/lib/armeabi/lib_ucsdk_softlink.so
+SHA1-Digest: MjdD7rfhd0VVUr9cHdIjxh3F03g=
+
+Name: assets/bin/Data/sharedassets1.assets.split33
+SHA1-Digest: TVXxFF4UPY3yfdbt5o1JKBxGAe0=
+
+Name: assets/bin/Data/sharedassets1.assets.split32
+SHA1-Digest: WIkzuI+0Es2+Al3FV7Bq5C/P0rc=
+
+Name: assets/bin/Data/8247856a7d71b484bbe79fcc17836668
+SHA1-Digest: en8t/EFL3X7VW5a8NYHfQQtKNWM=
+
+Name: assets/bin/Data/b2fad433dfefa451c87ef2a855eb4d84
+SHA1-Digest: ld09xK09ALBswuH1bCC/4fg80tk=
+
+Name: assets/bin/Data/defe75e89e358ca4793eff3f30c8e73b
+SHA1-Digest: 3O+AlxJ9sAZLdXLKYw7wbDEhblA=
+
+Name: assets/bin/Data/b43baf313d16d5e4787f7ad5e2a6439e
+SHA1-Digest: dxJ1lXtKQDi5wtvYAQNkEgE4pEA=
+
+Name: assets/bin/Data/sharedassets1.assets.split31
+SHA1-Digest: 3AhiSzKbTfDN01QIxTMYtJQxVCc=
+
+Name: assets/bin/Data/sharedassets1.assets.split30
+SHA1-Digest: BDDekQJ3s0/DZTiXGLuaiwpNGz8=
+
+Name: assets/bin/Data/d2f5de480e3553f43ba2ad8a46ddca9b
+SHA1-Digest: BN9PxBOl7+Z7v2oHUbuxBML/p5A=
+
+Name: assets/bin/Data/f4f0faf73e6bf89419cf29b611f29ade
+SHA1-Digest: 8aefZhU6qF1jhLx+ZoP8Qe8fWBw=
+
+Name: assets/ucgamesdk/lib/armeabi-v7a/lib_ucsdk_softlink.so
+SHA1-Digest: 57stbXA9iyp2zaWIiDLmzCotn/k=
+
+Name: assets/bin/Data/c52c9df7a5b254549a1c4cd1f8fbf949
+SHA1-Digest: GauTlp+G3YagHBUIpTQ8mXi0xw0=
+
+Name: assets/res_ats_h.pkg
+SHA1-Digest: UK3IgwCdvlZESS1SjCm8x9rW3kk=
+
+Name: assets/ucgamesdk/modules/cn.uc.gamesdk.account.apk
+SHA1-Digest: +PNCBCZnIBRUzmqjtw6P0XK3O44=
+
+Name: assets/bin/Data/19a814e2f14ae584fa56bd8b2d1ce6ad
+SHA1-Digest: mDm/CR/8wi9CbXV2Dd771ROQi/c=
+
+Name: assets/bin/Data/sharedassets1.assets.split29
+SHA1-Digest: drZz8hBL0Lcy16qvwaHzcMhxiNU=
+
+Name: assets/bin/Data/a9e48b4e2cc25d448be7194526ae27a3
+SHA1-Digest: 1EozsPB1VJmavqKMjx9HfekeJZE=
+
+Name: assets/bin/Data/sharedassets1.assets.split28
+SHA1-Digest: i0/fI2muYxSzsHkQpQOva9lUcrk=
+
+Name: assets/bin/Data/9b049846ff4880349a182e23bb554c71
+SHA1-Digest: ccNpUsHswSWFmxVCQAP8/BbpW0U=
+
+Name: assets/bin/Data/sharedassets1.assets.split27
+SHA1-Digest: II3eiWPihVk3fvnI/YRcAg7uBgs=
+
+Name: assets/bin/Data/sharedassets1.assets.split26
+SHA1-Digest: aqJJm9/1YwvTbDpzz7jEJAuaSLY=
+
+Name: res/drawable-xhdpi-v4/app_banner.png
+SHA1-Digest: aqv4ndS5je2XQWdMhG66+5fhv9I=
+
+Name: assets/bin/Data/sharedassets1.assets.split25
+SHA1-Digest: W4NfkXs9KzZmt8w73hX3df+hHTQ=
+
+Name: assets/bin/Data/773952d1ab5b7714392cdc5473b20244
+SHA1-Digest: s0i1NrhjepfWHT0IzzpcJjoTsyQ=
+
+Name: assets/bin/Data/sharedassets1.assets.split24
+SHA1-Digest: LuEBAd6kVLqPKXGeaPJJTrAFNac=
+
+Name: assets/bin/Data/sharedassets1.assets.split23
+SHA1-Digest: OAQ9A4+lW9pERM048AstYdkfZG4=
+
+Name: assets/bin/Data/d9b2cf4b638ae6249bbadc18cc3992b3
+SHA1-Digest: aON8L7ukOSJ9i3rDiyNgsewufzY=
+
+Name: assets/bin/Data/sharedassets1.assets.split22
+SHA1-Digest: 0O56RfmU01VGZa6B4OK26R0s81s=
+
+Name: assets/bin/Data/sharedassets1.assets.split21
+SHA1-Digest: ChZZgaGistgtNJW6F3YX2hCFcL8=
+
+Name: assets/deplist.lst
+SHA1-Digest: 9HBErnj+pBq14RWgPPuB+lBkfPI=
+
+Name: assets/bin/Data/sharedassets1.assets.split20
+SHA1-Digest: gP4uvw0H9lV+AON2TzHLluqcqSM=
+
+Name: assets/bin/Data/929a422a4d17e074b9baa66aef023885
+SHA1-Digest: ozoKBxgh9AJvkQXx0xS2BgAG4pc=
+
+Name: assets/bin/Data/c74e9487b4c24c54a967a1209423e914
+SHA1-Digest: yXimAz9rslFpBtx94cuK944NxXg=
+
+Name: assets/ucgamesdk/lib/armeabi-v7a/lib_ucsdk_patch.so
+SHA1-Digest: aINKFbRFGccO4114aKDt0g1CVB0=
+
+Name: assets/bin/Data/Managed/UnityEngine.Networking.dll
+SHA1-Digest: g6Xxlctr12NZL5GswdpXE2DOyGU=
+
+Name: assets/bin/Data/Managed/mscorlib.dll
+SHA1-Digest: jyVmTrFpq56yypLQ+cuXe0nzUz8=
+
+Name: assets/ucgamesdk/lib/armeabi-v7a/lib_ucsdk_xcrypt.so
+SHA1-Digest: 2FCWKHcoW9eMJi2RHLIHNG5TQJ4=
+
+Name: lib/x86/libzipw.so
+SHA1-Digest: VMA0GN2hKzrIFPripvg+3x6zezo=
+
+Name: assets/ucgamesdk/lib/arm64-v8a/lib_ucsdk_softlink.so
+SHA1-Digest: q5BjTorYNtI2yoYhRL6eoA9iwVI=
+
+Name: assets/bin/Data/27275fc7df2ec0346ba12831e6a01345
+SHA1-Digest: ssE3uoJ8VNsi2odn05uR51m9/l8=
+
+Name: assets/bin/Data/globalgamemanagers.assets
+SHA1-Digest: 3O1wtWGu02Lf7C7LHmNZc1GT1HE=
+
+Name: assets/bin/Data/0b5867f37f510a441aef083463a051e1
+SHA1-Digest: fXyBVqaB4PsthWOU56vJ3RVPwaY=
+
+Name: assets/ucgamesdk/lib/x86/lib_ucsdk_xcrypt.so
+SHA1-Digest: C7MS34tuec3sBFHDO+Spk2MMK0M=
+
+Name: assets/bin/Data/f9c14578d344faa4c8ea654da3b08c99
+SHA1-Digest: /WHzms9eXK50R9aTiMS+FBfCrAw=
+
+Name: assets/bin/Data/fefad6772c2e22448931b38ee2902ab8
+SHA1-Digest: PdUw0fFu3ky9acR0RTVp4YlrQ5M=
+
+Name: assets/bin/Data/7eff679d3bb1ad049829a9e66bbda8af
+SHA1-Digest: u3+/ENNMxUEGY7ZuV2GnvPbwv4A=
+
+Name: assets/bin/Data/60b2805cb710fb749b4a8a9463f4eb6a
+SHA1-Digest: 0sV1Bg6zLyYfKksy6XsqGGCupyQ=
+
+Name: assets/bin/Data/9b1df399a3896794d93f7288fdd77fef
+SHA1-Digest: g/AQXqPYM07Yhv8IEI+tGD+ORWw=
+
+Name: assets/res_merge.pkg
+SHA1-Digest: 0zp8mIjSvS99sHt6cvqZ9JOggJA=
+
+Name: assets/bin/Data/sharedassets0.assets.split5
+SHA1-Digest: ZSgHoFhKpc5ogUkyIxoaTsBZr/c=
+
+Name: assets/bin/Data/sharedassets0.assets.split4
+SHA1-Digest: dyfh9TXdak2aw2pNxbxgEZD2KwA=
+
+Name: assets/bin/Data/Managed/System.Xml.dll
+SHA1-Digest: rgCbTjX5FftHL3FV0GzWfLFToH8=
+
+Name: assets/bin/Data/sharedassets0.assets.split3
+SHA1-Digest: M+7+zwRZE8DeGvvmkPATWJPcVig=
+
+Name: assets/bin/Data/sharedassets0.assets.split2
+SHA1-Digest: KIEK/O40U/d5tiwT5qpLpO/dK8U=
+
+Name: assets/bin/Data/b60174d410a4b8f46a554a85d1d57315
+SHA1-Digest: 9hofIc5bIyXHaBFG13JH09ESEuo=
+
+Name: assets/bin/Data/sharedassets0.assets.split1
+SHA1-Digest: PGe8x77c6+p8iwqfqVW5oSkYKhQ=
+
+Name: assets/bin/Data/sharedassets0.assets.split0
+SHA1-Digest: KRFsK9G0BpxhzroaoIibBo4oHmI=
+
+Name: assets/ucgamesdk/lib/x86_64/list
+SHA1-Digest: qa3jMhBq27zhdXBzF1e0FzDtZiY=
+
+Name: assets/bin/Data/sharedassets1.assets.split3
+SHA1-Digest: 6CX6iMrz27Bwh+F6tOyVsmnGRz0=
+
+Name: assets/bin/Data/e37f44f1a08cf594fb6b3919774527ed
+SHA1-Digest: vWVtfhHSbISTxQCsONPx8mZkiF4=
+
+Name: assets/bin/Data/sharedassets1.assets.split4
+SHA1-Digest: +yIBALrtcGsLLqlvx5NShil6VFM=
+
+Name: assets/bin/Data/sharedassets1.assets.split1
+SHA1-Digest: Q5KfUI+S8awdQCLolE28nmADXV0=
+
+Name: assets/bin/Data/sharedassets1.assets.split2
+SHA1-Digest: 0yeY4j9NOMMK+hGUv7jyUK/aXoE=
+
+Name: assets/bin/Data/ed5591596df551e4c8f4b05ce88a7a07
+SHA1-Digest: 2e7ojenTtiN8P3FHnkH2LnxJw9I=
+
+Name: assets/bin/Data/a2e8d22fcbc716d42a90a284bd1d04b7
+SHA1-Digest: dR70AjXFO2QTQApcExpupm+pGVQ=
+
+Name: assets/bin/Data/sharedassets1.assets.split0
+SHA1-Digest: PyW0rqlECaHPdZcETUTVlNEe7gI=
+
+Name: assets/bin/Data/73ce2d484b23f7a47b2016bdf9fbf51a
+SHA1-Digest: wjwOl8Qda1aULyMKkprIJPuKVCI=
+
+Name: assets/res_pfb_3d_2.pkg
+SHA1-Digest: fXDzSAcAk/BMPJnWaFDW2VEFmsY=
+
+Name: assets/res_nc_cht_4.pkg
+SHA1-Digest: uhVTEOYuJAnlW+eMEcJWDB/ExTA=
+
+Name: assets/bin/Data/sharedassets1.assets.split9
+SHA1-Digest: z57ZBj6e7dHUvjAT0wBC9m/+z5w=
+
+Name: assets/bin/Data/sharedassets1.assets.split8
+SHA1-Digest: 3cutWKjBxDoiQenjhIpXIC+4zjM=
+
+Name: assets/bin/Data/sharedassets1.assets.split7
+SHA1-Digest: B4Pzo3ycCMPrYUaEjnuFpMeyE68=
+
+Name: assets/bin/Data/sharedassets1.assets.split6
+SHA1-Digest: 8me4CLvh7l6laNW6daLFRGeCYiw=
+
+Name: assets/bin/Data/269c6689d497a554cb36672e1ec58980
+SHA1-Digest: 0rgYW8/ZG7BBtbT0EMdsH/H1uGw=
+
+Name: assets/bin/Data/sharedassets1.assets.split5
+SHA1-Digest: kXbVRlw2jB6iewsy2ngPZng/JN0=
+
+Name: assets/bin/Data/302fac84c6441984b80e2511d2c971b4
+SHA1-Digest: nc+rJP482zqZGfhawDE1RVT0Vrk=
+
+Name: assets/ucgamesdk/modules/cn.uc.gamesdk.core.apk
+SHA1-Digest: TsvVAtmmpWtfCHRj/VvF4esACNI=
+
+Name: assets/bin/Data/Managed/System.Core.dll
+SHA1-Digest: EcVyKSkqfazMce53lRxjShj2pnU=
+
+Name: assets/bin/Data/ed5496c4ac88e3d4f944de65fdf5f327
+SHA1-Digest: jFVcx4QT5ySMLCd4p4k8aZL6XmY=
+
+Name: assets/bin/Data/sharedassets0.assets.split8
+SHA1-Digest: +IVaUQXAgHZ3u0ZTMkJ92+3yz6I=
+
+Name: assets/bin/Data/3324272f4da587f418613be2c7adf19c
+SHA1-Digest: olueYwt1AtZFAS/D5l5zK7TYckM=
+
+Name: assets/bin/Data/sharedassets0.assets.split9
+SHA1-Digest: iTyXmv1uUro56sqJXv3xZJ3M+fI=
+
+Name: assets/bin/Data/sharedassets0.assets.split6
+SHA1-Digest: 2U/bVU1HALQhUmLMhDLJnQ16xe4=
+
+Name: assets/bin/Data/sharedassets0.assets.split7
+SHA1-Digest: KR9wUnrWrrgeDeq0kRaQsYzcKLc=
+
+Name: assets/bin/Data/1008da00b7f9b5745b8b2429a24a481a
+SHA1-Digest: zolPo1rCy6Cv4OIGLyNHAmTKK8c=
+
+Name: assets/bin/Data/sharedassets0.assets.split25
+SHA1-Digest: Dgkn7tMIeHK+jfPKd+J6GIwOuts=
+
+Name: assets/bin/Data/sharedassets0.assets.split24
+SHA1-Digest: jBtkm/tGgwXfUFa57zA/7eUPerU=
+
+Name: assets/bin/Data/f6ae576b473886e47bf51bf402f48725
+SHA1-Digest: ahtoMFnaxgt6svPrYpR7iIMNaHM=
+
+Name: assets/ucgamesdk/config/sdk_info.txt
+SHA1-Digest: sn20OkdHHjvEO0z4ubfQ5cLOu0I=
+
+Name: assets/res_snd.pkg
+SHA1-Digest: YMH4pZIvz0WY/skG4qkcyrYNzFw=
+
+Name: assets/ucgamesdk/lib/mips/lib_ucsdk_patch.so
+SHA1-Digest: iRp9zuuPzXTmmOLZN+kRwMDdTLk=
+
+Name: assets/bin/Data/eec9c90e5acd4d74d9e021119fc70cf8
+SHA1-Digest: PWO5bCxcS8HQBgFhTy2K+o/fclg=
+
+Name: assets/bin/Data/sharedassets4.assets
+SHA1-Digest: tXE9L1I0pwC6Cl4vi+ZICzY2pWc=
+
+Name: assets/bin/Data/Managed/System.dll
+SHA1-Digest: mYpE/uOPezC7ttkhay0AQXHBVzU=
+
+Name: assets/bin/Data/76787ac3e04f4eb43b9d140e497485b3
+SHA1-Digest: 8bhfNZDzCZg8mctBeZHVgKa7KEg=
+
+Name: assets/bin/Data/sharedassets0.assets.split23
+SHA1-Digest: euBsj80w3vHVrXv3uT/Va/HD4fQ=
+
+Name: assets/bin/Data/sharedassets0.assets.split22
+SHA1-Digest: QalkKDn63HWWBpVmxBXayZFpgEg=
+
+Name: assets/bin/Data/sharedassets0.assets.split21
+SHA1-Digest: GvJAEyrFm+Z1Qs7CbfaleYsMZ0c=
+
+Name: assets/bin/Data/sharedassets0.assets.split20
+SHA1-Digest: EpeNBalfCxPPW4oDPepBkjJ7vPQ=
+
+Name: assets/bin/Data/65ca32170bb371f459991a5d7696a9ba
+SHA1-Digest: yJTYbT5u6wNJtdgw70nTK41jp8E=
+
+Name: assets/ucgamesdk/lib/armeabi-v7a/list
+SHA1-Digest: G0BFMjfl8DwbQjih+mQ9jhmJrkA=
+
+Name: assets/bin/Data/30ce5c06e7c8cff4283498f41b39c444
+SHA1-Digest: 4qTxgDEY20uf26tSY19iSPAfAvU=
+
+Name: lib/armeabi-v7a/libmain.so
+SHA1-Digest: FN8tczxWsVV6Pi9OBIQNHnacLtU=
+
+Name: assets/bin/Data/sharedassets0.assets.split14
+SHA1-Digest: /dhQtj7HjAkKwwXavb6MRIS9aVY=
+
+Name: assets/assets.lst
+SHA1-Digest: gYQP4669SuD7O0k4JbtqpIquXtU=
+
+Name: assets/bin/Data/sharedassets0.assets.split13
+SHA1-Digest: XaOrGi/gSRpIo0NtpBorsVxOikA=
+
+Name: assets/bin/Data/sharedassets0.assets.split16
+SHA1-Digest: /dhQtj7HjAkKwwXavb6MRIS9aVY=
+
+Name: assets/bin/Data/sharedassets0.assets.split15
+SHA1-Digest: /dhQtj7HjAkKwwXavb6MRIS9aVY=
+
+Name: assets/bin/Data/sharedassets0.assets.split18
+SHA1-Digest: vjV77oKmiqkMGN3WZ9MdUGdza9k=
+
+Name: assets/bin/Data/sharedassets0.assets.split17
+SHA1-Digest: dgpn7OHMoh2UaVX9FoOGrtmMPv4=
+
+Name: lib/armeabi-v7a/libzipw.so
+SHA1-Digest: tPpJdyznmJ/Www3ZAIt4jhGuNus=
+
+Name: assets/bin/Data/sharedassets0.assets.split19
+SHA1-Digest: TUgEOWRmR7osssqGZA773+IBpDc=
+
+Name: assets/ucgamesdk/modules/cn.uc.gamesdk.log.apk
+SHA1-Digest: JklIX8vMRahKcD6CVb8Ep5ZJEUI=
+
+Name: assets/bin/Data/Managed/DOTween.dll
+SHA1-Digest: 0dYLLJISwEk8KWGJSmgDfz/gc8g=
+
+Name: assets/bin/Data/sharedassets0.assets.split10
+SHA1-Digest: zTIhGKy04++W7M8JkFqc24DXIbc=
+
+Name: assets/bin/Data/sharedassets0.assets.split12
+SHA1-Digest: h5SkfoeYe5ASdIJl48HK2YweBoc=
+
+Name: assets/res_tex.pkg
+SHA1-Digest: Ky/m4583GBjBnZQA5pd7YZaY7Rw=
+
+Name: assets/bin/Data/2f1a0bba7780ff045aaf63510136f4e1
+SHA1-Digest: T+AwFld59AbtR/KqCfBOabl0SsI=
+
+Name: assets/bin/Data/fe7181ad157c1bf42952c03e5e1fb218
+SHA1-Digest: fmk3oz/SlN5R8u50oy+tspNLxYQ=
+
+Name: assets/bin/Data/sharedassets0.assets.split11
+SHA1-Digest: j+bYRh9bkgrlOkwVoXLZRWek+EQ=
+
+Name: assets/res_nc_eff.pkg
+SHA1-Digest: Sf58MrH8w+jySq8r/StO0LWBSRk=
+
+Name: assets/res_nc_cht_3.pkg
+SHA1-Digest: n5CrSIw7hIfdrlnR6pfipBswFsg=
+
+Name: res/drawable-xhdpi-v4/app_icon.png
+SHA1-Digest: fjMgWeGliiqp7jNcwuf2NMUOgwA=
+
+Name: assets/res_pfb_3d_1.pkg
+SHA1-Digest: smFjIhenImRA+EOhe6MMmQMWrOw=
+
+Name: assets/ucgamesdk/lib/list
+SHA1-Digest: 33uRV1KKWYKYvFfjL45rrr5daZ4=
+
+Name: assets/bin/Data/9970176e256588a418f10b27884484fb
+SHA1-Digest: 3rTWWi0zaFSDEZfnpIM/trqXKnQ=
+
+Name: assets/bin/Data/2cd1f5408130bdc4cbcf8c8fab8efd21
+SHA1-Digest: 3PmuOuumJURbPtSEE+qfYefPg/0=
+
+Name: assets/bin/Data/Resources/unity_builtin_extra
+SHA1-Digest: QOn203zJ1doW2otDfwch3yXPCww=
+
+Name: assets/bin/Data/f0b3044f9389d6548bbf0391c4e883c5
+SHA1-Digest: pRoc78bFVcfxrMoG2L4fUSXDTVA=
+
+Name: assets/bin/Data/sharedassets1.assets.split10
+SHA1-Digest: HOMkdHUtOAAGh1/7QTGKNx4fr3w=
+
+Name: assets/bin/Data/Managed/UnityEngine.dll.mdb
+SHA1-Digest: P3FScQLcBuC+XpCB6PAMxr0eQhs=
+
+Name: assets/bin/Data/sharedassets1.assets.split11
+SHA1-Digest: iege5kaiTh2RPWfer4918QQKbHQ=
+
+Name: assets/bin/Data/sharedassets1.assets.split12
+SHA1-Digest: 2J6Q+Sf76Y4lcnpAkWcwbsYYU6U=
+
+Name: assets/bin/Data/sharedassets1.assets.split13
+SHA1-Digest: oohHaADvkvu0DyO3l0oss8ZIIx4=
+
+Name: assets/bin/Data/sharedassets1.assets.split14
+SHA1-Digest: f/3GmI9rOSDnzbhFQaaF3U0OTgk=
+
+Name: assets/bin/Data/sharedassets1.assets.split15
+SHA1-Digest: 3tNZdU5KzIAzKKet4WyyYLLZHsY=
+
+Name: assets/bin/Data/sharedassets1.assets.split16
+SHA1-Digest: cZmJtb7rdOvLaAV5GoxBgeWCn3Y=
+
+Name: assets/bin/Data/sharedassets1.assets.split17
+SHA1-Digest: ZQ6Iekl90yJ+uSsRJm3zUlq4CfQ=
+
+Name: assets/bin/Data/sharedassets1.assets.split18
+SHA1-Digest: e6KMakuRsRXaJ69ouqqggxAIzz4=
+
+Name: assets/bin/Data/0000000000000000f000000000000000
+SHA1-Digest: rF68QLpICj9wumT2BA5o2C9DpxY=
+
+Name: assets/crcluafile
+SHA1-Digest: f7lfUOsUAfY9K8Ik3NKTz6VB11I=
+
+Name: assets/bin/Data/sharedassets1.assets.split19
+SHA1-Digest: 7BtypbmjoEyJ2mDP9yGYafk7KNg=
+
+Name: assets/ucgamesdk/lib/mips/lib_ucsdk_softlink.so
+SHA1-Digest: Qtor6d9cfaPFTyvTEI/c9SOybic=
+
+Name: assets/bin/Data/b24c87e1d9858094bbc4bc3d360cd642
+SHA1-Digest: Tw2VcnzzIKaSPUVgPVuKKkFEkUU=
+
+Name: assets/bin/Data/cf9ebc36d43f657468fecb524763e3bc
+SHA1-Digest: +zgnE1TAwVkGi6vjYiEGvDV5kxw=
+
+Name: assets/bin/Data/b19b232403b638e458a466a5a61255fa
+SHA1-Digest: HSWKDVd1DsWrKgbki3TvqPLLU6Q=
+
+Name: assets/bin/Data/f5485a6ff703ea448a31a9696eddd371
+SHA1-Digest: N3m/+gIsaOJbwqMpanmZ9V6Mk3o=
+
+Name: assets/bin/Data/69bebde887670674ca515044285beb92
+SHA1-Digest: SvnjUEuFVVi3SJ6kDOAkrzCSb9w=
+
+Name: assets/bin/Data/d1c730e7dfebb504b9cf7f83e8c3f9ce
+SHA1-Digest: O3ZsnMhXgLV4gbwZmewnXMlw72E=
+
+Name: assets/res_ats.pkg
+SHA1-Digest: uLnxetCxYkNWvlyy6k3r3zjAv5E=
+
+Name: assets/bin/Data/b414eff486e9c7b4ab15d0d984e4be6f
+SHA1-Digest: bJTNHoNkcBULOcjakKaCgPuHHN8=
+
+Name: assets/bin/Data/ef2fe2a1e7f8aa5438d0921ec7b436a2
+SHA1-Digest: YYP+0tPGPTZSSRJDL5lCm9uDIOc=
+
+Name: assets/bin/Data/97eff3300587d3c49b009d67863f62c2
+SHA1-Digest: dZS/yNpcSNZt/K9nMtTQxTW1648=
+
+Name: assets/bin/Data/08f79b1b6d32e254d998340e25922f6c
+SHA1-Digest: Miuht0EG7G7TZS0Q5rl8RUE89qc=
+
+Name: assets/res_tex_pot_1.pkg
+SHA1-Digest: HjXoF16kqOjA2S6tfio9LC59Ga4=
+
+Name: assets/bin/Data/2d790aeb3a27e1c46ae1f79804da15f6
+SHA1-Digest: jXEobzWJxAL2AGBKfU0o4Cv2C8E=
+
+Name: res/drawable-ldpi-v4/app_icon.png
+SHA1-Digest: Mm47JW0u/9GOSwLoalTTRK4EMho=
+
+Name: assets/bin/Data/6f5a39d3257faf74982401317569839b
+SHA1-Digest: 9UvJoe9APrOuJ4mLrnBemdFde7U=
+
+Name: res/drawable/app_icon.png
+SHA1-Digest: YYUIcDKZmH/9TMoazgt85yqhOgI=
+
+Name: assets/bin/Data/4078b7025202f064c942871640f16af8
+SHA1-Digest: 1vhFrn2ewYcAMwwn7T0Ow+S0i+I=
+
+Name: assets/bin/Data/5e82b392f79aa394fb1a579743600d5f
+SHA1-Digest: VwsKNuj48xCs3n6+NehF0wQAsic=
+
+Name: assets/bin/Data/4e035b771d4c8594d93c520a1750a81a
+SHA1-Digest: xerZ+yTF4ZOBnLPCWe/WQ0lCce8=
+
+Name: assets/bin/Data/f5bb6c99a78d7a449ae75c8182df6127
+SHA1-Digest: jWfl60ScuCgMHbsdjx7YvhYQhDQ=
+
+Name: assets/bin/Data/globalgamemanagers
+SHA1-Digest: 5Vg2F4mJMX4Whd9VquRhBNsFH+4=
+
+Name: assets/bin/Data/b5c7a7ad0accc304d9c133cccece228e
+SHA1-Digest: Q1B1LDBRhjZLuSybwRqQ9I+Qijc=
+
+Name: assets/ucgamesdk/modules/cn.uc.gamesdk.utils.apk
+SHA1-Digest: CyFqjfc/53AG88I1pNvsSFveqHI=
+
+Name: lib/x86/libunity.so
+SHA1-Digest: auhsPwuZYg25Z7phUlFaW/APYB0=
+
+Name: assets/bin/Data/15e4ba6035d41e64c935ae3e74dee12e
+SHA1-Digest: Jt8+o2zfQ8NU8MJEcrBl32y2HTs=
+
+Name: assets/ucgamesdk/lib/x86_64/lib_ucsdk_xcrypt.so
+SHA1-Digest: Cbb+FzT5JVvdTuew05iMYlpR2/8=
+
+Name: assets/bin/Data/dd115d07499becc4d9fc68301f3bc4cf
+SHA1-Digest: TZotHcmoGM8nq56mrhyEoTmXmVE=
+
+Name: assets/bin/Data/7860a96b74c886840b0d2d9c2579fc61
+SHA1-Digest: 6alGBPEthi+8zHz7etwQredaJJc=
+
+Name: assets/bin/Data/bf4a07dbc4f7591409e6c23929f1ff6a
+SHA1-Digest: gQM3xIAUhutxxQ02Wu6wxybTUYQ=
+
+Name: assets/bin/Data/182695e850938314fa6675a8926ad9ee
+SHA1-Digest: tfZ+IM/umZ994nW9MwmJzIdLd+M=
+
+Name: assets/bin/Data/59f69ef9c88be1e40aa23472883dd045
+SHA1-Digest: ZNhOAXD89AY8kv/ZRvryTB154fM=
+
+Name: assets/bin/Data/8bb35c3d23019214da7d845b794f0528
+SHA1-Digest: drWHoixzzrlplWCEHxXghAO79BQ=
+
+Name: assets/bin/Data/6c569e0772bc48c418961bb80b41f2c1
+SHA1-Digest: U9KGNGY2XQ+R0XKzw0KITk13Pvs=
+
+Name: assets/bin/Data/7a5098482a7e8be468ff8261b67a5988
+SHA1-Digest: ky8wuSA6Ntm/UUT56pYQhxo+jWM=
+
+Name: assets/bin/Data/41ebd3a5be6f27f438e39af42c8cf388
+SHA1-Digest: yZTSqsEjBONAmX0fG9tPvAiqZpI=
+
+Name: assets/bin/Data/d78437998f0996141a4c13dde88cf0dc
+SHA1-Digest: AXZYpstE8QdQGFzlFS1m5l3TCaw=
+
+Name: assets/bin/Data/ff41d90c94003c649890db1cbb529fb3
+SHA1-Digest: ZDsY5Z65eoZxO7k2tF1YSGeMpTc=
+
+Name: assets/ProtoS2C.bin
+SHA1-Digest: Dsg1m/qlE2klywgG4srLUUyu838=
+
+Name: assets/bin/Data/level4
+SHA1-Digest: MgrNcK+v5EL7jQTRvJuavIQ/oDU=
+
+Name: assets/bin/Data/a32d2d2e16c2c75459037b685ee89939
+SHA1-Digest: LX6jjUZF/77TuqGagRqIGuoZ/ig=
+
+Name: assets/bin/Data/level3
+SHA1-Digest: vNP5GkznCB5bL8QmCRcwzUMUmog=
+
+Name: assets/bin/Data/822e942020c13d24ba5fcee5720eb95c
+SHA1-Digest: ChO+BCO7SYcw70VvWVmv9HzkOC8=
+
+Name: assets/bin/Data/a1de6faf586cc2e47b2e090c80dff564
+SHA1-Digest: OPejEJGil8iPqu53ldP6Rw385HU=
+
+Name: assets/bin/Data/b4e5d665cb8b77c48b5aa427daf99288
+SHA1-Digest: XtCoXwyK7GC2sOauzqL3fixMoZc=
+
+Name: assets/bin/Data/31cbd42faf94f674991c7df0137051e2
+SHA1-Digest: KmUV04/O5MlzIaOS4j17VcZq6NA=
+
+Name: assets/bin/Data/1682092270f88d04bb434756a984ea87
+SHA1-Digest: G+jvTehlZjqJvBdwyyKINrRHf70=
+
+Name: assets/bin/Data/3be8023c9f6e651418165dbf293e4aa1
+SHA1-Digest: LH/fSKUJTFBVMJp1iNs2z8NDlog=
+
+Name: lib/x86/libmono.so
+SHA1-Digest: I9259qRqWLBTHsc9YtPkw9diUvU=
+
+Name: lib/armeabi-v7a/libunity.so
+SHA1-Digest: LJbA+c0ZC2E8GNSRd18s8DkryHM=
+
+Name: assets/bin/Data/dca3dcb627ef4e645a7b195c8a71471c
+SHA1-Digest: WFNCCAYvq3chLsXp3Lp9gdYlk8c=
+
+Name: assets/bin/Data/cdb33978b16d7d949ad252de0c2ed0e4
+SHA1-Digest: KVuPLoCgDSrOwOfTvIIdGCTmU48=
+
+Name: assets/bin/Data/ae3fd876b2e88a94e9391b1ad6bbf549
+SHA1-Digest: a7j1zmnpefXHcab4OxC8pJzGSbw=
+
+Name: assets/bin/Data/37590480333382341b5007dec2a032c6
+SHA1-Digest: UxhXZDZmxyDB7XxZKlMNxePab3g=
+
+Name: assets/res_nc_cht_1.pkg
+SHA1-Digest: bsM/Snz28/C8yLXtROlpu1p6/PM=
+
+Name: assets/bin/Data/095f00e601515e94b893ad88da8842cf
+SHA1-Digest: XF0R9VbB0GwSzrjJrkPRZ4zVVG4=
+
+Name: assets/ucgamesdk/lib/x86/lib_ucsdk_softlink.so
+SHA1-Digest: yu3eb8POln6naXn9jqGQ2geheaI=
+
+Name: assets/ucgamesdk/lib/x86/lib_ucsdk_patch.so
+SHA1-Digest: ClZiswI2+5CWJgVZLsEurdFNVeQ=
+
+Name: assets/ucgamesdk/modules/list
+SHA1-Digest: Gi+eQfFMxXlgiJgQOTA5662g+pA=
+
+Name: assets/ucgamesdk/lib/armeabi/lib_ucsdk_patch.so
+SHA1-Digest: k3zMLHnS1vpqt5cchDDZ9fgvdzg=
+
+Name: assets/bin/Data/98228ed3b93435a41b08fe8558176c75
+SHA1-Digest: BRKS00ezKuFflbX6tV1599gaskU=
+
+Name: assets/ucgamesdk/lib/armeabi/lib_ucsdk_xcrypt.so
+SHA1-Digest: 6kcUKXGnuND0AApzlpic0B6cD7k=
+
+Name: lib/armeabi-v7a/libmono.so
+SHA1-Digest: izUS7oTCGiZw6UwvwEyboMFB5rM=
+
+Name: assets/bin/Data/5548d8bf75e1829468202cb39a00b463
+SHA1-Digest: 9lnKTbQ0heBDPbbmh4971fboMZs=
+
+Name: assets/bin/Data/b91162bc916a3c249a82cb470cedde0a
+SHA1-Digest: PIWFOwxA8Q2ZfqAgs/QRqlJ3seg=
+
+Name: resources.arsc
+SHA1-Digest: rh5KwBOSGDsZIv/VDbJU9/YlW5Q=
+
+Name: lib/armeabi-v7a/libtolua.so
+SHA1-Digest: 9vNcXchmqTvrazcpeipCi8WOrn8=
+
+Name: assets/ucgamesdk/lib/armeabi/list
+SHA1-Digest: wC05JZiMybn//nh/pUCuf+IVc8Y=
+
+Name: assets/res_pfb.pkg
+SHA1-Digest: aTuHcCOMCmFfUbZX/r/YUnJoZus=
+
+Name: assets/ucgamesdk/modules/cn.uc.gamesdk.loader.apk
+SHA1-Digest: jjGb/AFzMON+7wgk1aRGm59dEeQ=
+
+Name: assets/bin/Data/2f7d155643b33214fbffbe9e2e938235
+SHA1-Digest: dwnjbyc6+EC6rKXCs1ZCpkzxZLE=
+
+Name: AndroidManifest.xml
+SHA1-Digest: GxHhg50YphOqI5lCzWSDHg5QUiY=
+
+Name: assets/ucgamesdk/config/route.json
+SHA1-Digest: 7SYPfS1kar5ftvPS3bPLfN8ettU=
+
+Name: assets/ucgamesdk/modules/cn.uc.gamesdk.update.apk
+SHA1-Digest: BlLwIyHk96lVnp97sWjciUAGvFU=
+
+Name: assets/ucgamesdk/lib/mips/list
+SHA1-Digest: UIs4sFWA8YOU+nSbevBHxsEhyX8=
+
+Name: assets/res_ats_sce.pkg
+SHA1-Digest: JlFdrDNOyWTIHL9EhEourYo8RSo=
+
+Name: assets/ucgamesdk/lib/x86/list
+SHA1-Digest: n7S3SZ/gvqxWi2c8ojUTxtd4Ti0=
+
+Name: assets/ucgamesdk/lib/arm64-v8a/lib_ucsdk_xcrypt.so
+SHA1-Digest: 30GzrYM/iIIyWXmIK0JO3XQBwZ8=
+
+Name: assets/ucgamesdk/modules/cn.uc.gamesdk.init.apk
+SHA1-Digest: doTsXg9uy3BLuCTeGEJdLoQshnE=
+
+Name: assets/bin/Data/97dc7e71a5a46184182c85a37386c1b0
+SHA1-Digest: d1bn0xt6Hc3gIacTsOtx9AvdVvI=
+
+Name: assets/bin/Data/673cd48a419d6c94fbc67d4bc862e05b
+SHA1-Digest: uKeCfCvbe8BCRfrv45Ddjm447gA=
+
+Name: assets/bin/Data/Managed/UnityEngine.dll
+SHA1-Digest: Z8JHyt72Hf3bcaJkG5JNL7Qh8LY=
+
+Name: res/drawable-xxhdpi-v4/app_icon.png
+SHA1-Digest: BCm0Ev0C36CfsE88LwuuzIoYIgo=
+
+Name: assets/bin/Data/64c491303d05cb943b6064d8ba042a8e
+SHA1-Digest: f3qJpWrTgf5lFSSWxs33OaRBP10=
+
+Name: assets/bin/Data/773417da4aa1b46409bd1e7574dcb251
+SHA1-Digest: EnPFUVbyot5SKClqlpoqPBEGPbk=
+
+Name: assets/ucgamesdk/lib/arm64-v8a/lib_ucsdk_patch.so
+SHA1-Digest: ScbBoYMET9SagD5zQ5gnzQT3cKo=
+
+Name: assets/bin/Data/d1ba9e7ba321b2c4d97f6a19f1deab6a
+SHA1-Digest: kN2e95y/t2Y2MchR68woPxvlbpc=
+
+Name: classes.dex
+SHA1-Digest: +X6bO6GlnsuuiGjMFbmgw2mAjw4=
+
+Name: assets/bin/Data/c6f11eb0ceeb5e044b3199208e1a99bf
+SHA1-Digest: slHjIFOrxD+cLK9elJdTbmUlhgA=
+
+Name: assets/ucgamesdk/lib/arm64-v8a/list
+SHA1-Digest: P/mqfO8emk1XCnPtmeCC2gPjE/s=
+
+Name: assets/ucgamesdk/lib/mips/lib_ucsdk_xcrypt.so
+SHA1-Digest: Z2z8L4UyI6UcfhAPgV+CPD1wWvU=
+
+Name: assets/bin/Data/90cbd712af6ce064694b717335a54314
+SHA1-Digest: ei8321fcDiY+VUXwE4n/lfQhhA4=
+
+Name: assets/bin/Data/7f8d06d8e107a5440b9d4b0cd860ee4e
+SHA1-Digest: tChMrfA+F5i/EnDLT5RzQWNN3wM=
+
+Name: assets/bin/Data/3cea8715501c0654c818270de4373291
+SHA1-Digest: 7qQ0a0XR9W9PO8cwgR/gWMr19ms=
+
+Name: assets/bin/Data/e9be21d6d1b725e45aca160d0dd96728
+SHA1-Digest: HUlY2Rfta7Mv6soEENejSoLsU+A=
+
+Name: assets/res_shader.pkg
+SHA1-Digest: 11zYCtOXz8rjkGP73sAKSlABjKY=
+
+Name: assets/LanguageText/language.lang
+SHA1-Digest: iD75VPPAi9kJW8M3BDj6kOi1Y8Q=
+
+Name: assets/bin/Data/c3807507a4589a046a560e3e2faba7a2
+SHA1-Digest: rICk84CeTfD9VGD8+2X/ADfS+Tk=
+
+Name: assets/bin/Data/1c44e627bc585384d8fb6f4c8e17f4eb
+SHA1-Digest: fDN//f6XsI1o1NtfIAonZOYwtxQ=
+
+Name: lib/x86/libmain.so
+SHA1-Digest: Zd7DlUpCqq0qg5Gw4GGb/6/RjC8=
+
+Name: assets/bin/Data/2461d0aacc3303f43814d2ef2f74d4fc
+SHA1-Digest: 9pIZwCO26K38Xb64W11reSW9ByU=
+
+Name: assets/bin/Data/01f67bf959bc29846b96cab5fcef5985
+SHA1-Digest: ZP32kWsjgsKpAXKhR/ua+m6YsSk=
+
+Name: assets/bin/Data/7c0a1aa668787ad42a48d1a535825520
+SHA1-Digest: QTW2KP5bgUmy4fifKLU6JVMaqcI=
+
+Name: assets/bin/Data/93c84009f8f004b4f84697c8cb12dd63
+SHA1-Digest: yeUykKZ6PjxWkV6wXmLgqBKR0BQ=
+
+Name: assets/bin/Data/splash.png
+SHA1-Digest: nOM/JBUAYA8g6T/V1jafjFc6XoM=
+
+Name: assets/res_fx.pkg
+SHA1-Digest: cjO6d2G+fzZ8VuK5AUQx1yZdQ3c=
+
+Name: assets/scripts.zip
+SHA1-Digest: JS5bCc7/8xXlxID3h8xLNLl4hGo=
+
+Name: assets/bin/Data/0b45b095d9346cc43ba0437200373374
+SHA1-Digest: byzTtfGsHG7u7LJfyGuA9Do6cjo=
+
+Name: assets/bin/Data/sharedassets3.assets
+SHA1-Digest: 9K2QpQ9bI7mHRZc3rS9x+Lr4JbU=
+
+Name: assets/bin/Data/8f0500f18949910499a7c56b7756174d
+SHA1-Digest: 2gt7JjWhqyDj36dXFPmMUEpBJ5E=
+
+Name: assets/bin/Data/5b092bab482616e409c4de025781263f
+SHA1-Digest: xZc32nf2PYscjSUF7Lfc+VNYbUc=
+
+Name: assets/bin/Data/8f1675da05a45ff4ca148f116f5dd550
+SHA1-Digest: MChWTdRgn7q9afLjhRYc3JGTfv0=
+
+Name: assets/bin/Data/sharedassets0.resource
+SHA1-Digest: Icgl+5p5enREWmKmqq5fFZ8JPcE=
+
+Name: assets/bin/Data/unity default resources
+SHA1-Digest: R59AlPa2X2b016NtNsXotSeYhBU=
+
+Name: assets/bin/Data/16555a9a1a9e6694dbf97065825451ff
+SHA1-Digest: gTINDnp+UtlKryWcaIg2Cgo2QWk=
+
+Name: res/drawable-xxxhdpi-v4/app_icon.png
+SHA1-Digest: FHZuLX3zgRyuJpz+gCMF59iL5Tw=
+
+Name: assets/bin/Data/75677531f9e15d04dba31c302f474575
+SHA1-Digest: e6blKAI4u7MU1JxeFsk521hjz0o=
+
+Name: assets/bin/Data/a22b808718aa82f4db47ce6a9cbf926e
+SHA1-Digest: O8jsbKDhiiF5CQziSGd0rGqEurY=
+
+Name: assets/ucgamesdk/modules/cn.uc.gamesdk.lib.apk
+SHA1-Digest: /FABPacnIDrQxt4n2GYiBgR5sC8=
+
+Name: assets/bin/Data/sharedassets2.assets
+SHA1-Digest: 9K2QpQ9bI7mHRZc3rS9x+Lr4JbU=
+
+Name: assets/bin/Data/db43ab19879c8204582472f2244a8e6c
+SHA1-Digest: TL43rTFH9/SfU5DCkdxEEN5sKiE=
+
+Name: assets/bin/Data/Managed/UDebug.dll
+SHA1-Digest: HJtGY+M7Lnj1gSSxznjVzC9C8DQ=
+
+Name: assets/bin/Data/Managed/Assembly-CSharp-firstpass.dll
+SHA1-Digest: b7x6B/vKpXYjei4mmTLxAej33F4=
+
+Name: assets/bin/Data/5021fa3d2cd7f5f4f9eab49e5865893f
+SHA1-Digest: 6Cn6C5J0UepTpr4/TxBjyppthpE=
+
+Name: assets/version.cfg
+SHA1-Digest: BC57jXLT1Yj9ZMcYKS6fKeVdZUY=
+
+Name: assets/bin/Data/6a0146e723a4d7747b482881dfd0567b
+SHA1-Digest: XPIuvn+R9zqOLviOxz3mv7/4q7I=
+
+Name: res/drawable-hdpi-v4/app_icon.png
+SHA1-Digest: 5qDwloPuMyK9fHaMACGZqCeFlBU=
+
+Name: assets/bin/Data/e847bd6f8940cda4c943d909d4256222
+SHA1-Digest: VdKee2LsxUB+9LNOzq7ZpPbTv2s=
+
+Name: assets/bin/Data/a59d5c5875580784baf6ecb496667a0e
+SHA1-Digest: nkOrwvctrYOz8ZGgyeXdZP+WIl8=
+
+Name: assets/bin/Data/Managed/Debugger.dll
+SHA1-Digest: KQQxRzQZog8599Th/qK4qXyudtc=
+
+Name: assets/bin/Data/7e4bf5def1165b845bd146ccd0aae1e8
+SHA1-Digest: 7n26N0zSjInSfWzxwIu5YFpIcdw=
+
+Name: assets/res_dat.pkg
+SHA1-Digest: SdGxn8Xyu1slfhui7l2mT8FwPE4=
+
+Name: assets/bin/Data/b1bcc48f7bbd4e440b846e5997a03813
+SHA1-Digest: pSxkD1fSIFX6/Zo+rP/NtiUNYvg=
+
+Name: assets/bin/Data/811bf7372af18a549a52fa82056ae885
+SHA1-Digest: m0kzQIpDm+l/rTRgZz328/9lHhE=
+
+Name: assets/bin/Data/9300d87db4ad0b0439f6fb97c3ce8ccf
+SHA1-Digest: I6cGbf0UxKB44tqbIlHeSY19GiA=
+
+Name: assets/bin/Data/level0
+SHA1-Digest: qvl6R/sCu+V5UB2NFeApJhxTpKE=
+
+Name: assets/bin/Data/f3fd145b191cf4040ac6b55cda352a53
+SHA1-Digest: Q2XgIb9eR4L7xGNAW9jWRPjNkEg=
+
+Name: assets/res_tex_avt_1.pkg
+SHA1-Digest: OvlYAK8RWeA1wxL+hLIRRoK+uxA=
+
+Name: assets/bin/Data/level2
+SHA1-Digest: cTc10z7ju3kUG2vARwC6xW2689U=
+
+Name: assets/bin/Data/e68c642f4bca82248a4613a69d3f38ee
+SHA1-Digest: 58EePY05cXLAvy3UzgBL4r6klyA=
+
+Name: assets/bin/Data/level1
+SHA1-Digest: n8WzIpf3rhsFJxwSN6Uph2nL74g=
+
+Name: assets/ucgamesdk/lib/x86_64/lib_ucsdk_softlink.so
+SHA1-Digest: 3ElQRp5A3DbgJgdsEOvnlzDn7Ho=
+
+Name: assets/bin/Data/720c2c242cde13e4188964c550502b5e
+SHA1-Digest: Nv4rmb3ubHhAYrVyNXUvr6h4+uY=
+
+Name: assets/ProtoC2S.bin
+SHA1-Digest: ++Q88e2UWg/Pwganf4cY8v/8gzs=
+
+Name: assets/bin/Data/a4cd255128689ea499c8ac5977bcf209
+SHA1-Digest: Fz+3Dm7QipZhkFCyY5yAq9vWLU4=
+
+Name: assets/ucgamesdk/lib/ucsdk.apk
+SHA1-Digest: f6GT6NgR6TsYHB2oEi3+Tn1CmTw=
+
+Name: assets/bin/Data/83a303c6804873b4da473eae7eb08213
+SHA1-Digest: O2ZfaEu7kefrmf8P+rdWZRtXS0g=
+
+Name: assets/bin/Data/settings.xml
+SHA1-Digest: aHqfqbJJ+oGTwjd6Ddzu5MYBMDc=
+
+Name: assets/bin/Data/222c64d503379884db00185ebbe08590
+SHA1-Digest: QlSmeaoTjHGMZNzsJbXTpko5xM0=
+
+Name: assets/res_nc_1.pkg
+SHA1-Digest: ykszYVSCdZ5wLrxLhmt1B2U1he4=
+
+Name: assets/bin/Data/Managed/UnityEngine.UI.dll
+SHA1-Digest: nay4C8+sMEzN4Z/nr8oAuomwL/I=
+
+Name: assets/bin/Data/bb503c462558b8845850927249afb51b
+SHA1-Digest: LvD9b9u3sT51htCNyw9R3NQpB7I=
+
+Name: assets/ucgamesdk/modules/version.ini
+SHA1-Digest: 31LkE4TvsB8ew0PqQgivBQyt20Q=
+
+Name: assets/ucgamesdk/lib/x86_64/lib_ucsdk_patch.so
+SHA1-Digest: zIC0CrJB0IVJsUxnIVpeJUmYSN4=
+
+Name: assets/bin/Data/9fa8325ee51643747b9d51b3351ddb2d
+SHA1-Digest: hb2fMHtQ1P7S96NnkcwTPlAcrEc=
+
+Name: assets/res_font.pkg
+SHA1-Digest: j9nczjunzFJpJG3XyN2E3+TbxGQ=
+
+Name: assets/bin/Data/9f39f1d1f2f3ee04bb793082eee05819
+SHA1-Digest: TeCDqYEOJm7ZSuMwjeYfaIX9euw=
+
+Name: assets/bin/Data/65ef1a7f8e98cf147be1f2848fda9432
+SHA1-Digest: RdxkW7fTgXGKmn46Ef4B+mjr+Mg=
+
+Name: assets/bin/Data/da1e9578088c535458aa8895a379c889
+SHA1-Digest: Lju2gvnHwdrBV70yim0NUT5/k2s=
+
+Name: assets/res_nc_cht_2.pkg
+SHA1-Digest: cz5u0Hp+5G6f1sg2M8Jr+14HOiE=
+

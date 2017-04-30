@@ -1,0 +1,2192 @@
+s,s,s
+LangKey,LangValue_chs,LangValue_eng
+Loading_Copy
+解包数据文件
+Unpacking data
+Loading_Res
+初始化游戏环境
+初始化游戏环境
+DiskSpace_Full
+磁盘空间已满
+Not enough space
+Full_Install
+{0}版本需要全新安装，无法在线更新
+{0}Can't update. Must install whole new version
+Zip_Init_Failed
+压缩文件已损坏，无法解压
+Compressed file is broken
+Zip_Failed
+解压文件失败，确认磁盘空间是否充足
+Compressing failed, please make sure there are enough space
+Init_SDK
+初始化平台中…
+初始化平台中…
+Init_SDK_Failed
+初始化平台失败
+初始化平台失败
+ERROR
+错误
+Error
+code_testpvepanel_0
+测试号
+Test Account
+code_achievementmanager_0
+每日任务
+Mission
+code_achievementmanager_1
+成就奖励
+Honor Hall
+code_achievementmanager_2
+战役任务
+Campaign Quest
+code_achievementmanager_3
+特别支援
+Special support
+code_applicationmanager_0
+连接断开了
+You are disconnected
+code_connectmanager_0
+连接服务器 (%s/%s)
+Connecting to Sever (%s/%s)
+code_connectmanager_1
+连接服务器
+Connecting to Sever
+code_connectmanager_2
+连接失败
+Connecting Failed
+code_connectmanager_3
+重连
+Connecting Again
+code_connectmanager_4
+取消重连
+Canceling Connecting 
+code_connectmanager_5
+退出
+Quit
+code_connectmanager_6
+重连失败
+Reconnecting failed
+code_marketmanager_0
+获取商城列表失败，请稍后再试
+Failed to receive store list, please try again
+code_marketmanager_1
+%s不足，无法购买
+Not enough %s
+code_buiclientfacade_0
+红鳍
+Redis
+code_buiclientfacade_1
+蓝梓
+Bluea
+code_buiconfig_0
+战场
+Battlefield
+code_buioperationmanager_0
+这个回合已经使用过了
+You have used it this turn
+code_buioperationmanager_1
+不是你的回合
+It's not your turn!
+code_buioperationmanager_2
+游戏还没有开始
+Match has not begin yet
+code_buioperationmanager_5
+当前资源不足
+Not enough Resource!
+code_buirefreshmanager_0
+正在重新连接战斗
+Reconnecting to battle
+code_buirefreshmanager_1
+战斗已经结束了
+Battle is over
+code_battlebigcardpanel_0
+移动
+MOV
+code_battlebigcardpanel_1
+射程
+RNG
+code_battlebigcardpanel_2
+缺少
+Lack of
+code_battlebigcardpanel_4
+任意
+Any
+code_battlebigcardpanel_5
+∞
+∞
+code_battlebigcardpanel_9
+指定
+Assign
+code_battlebigcardpanel_11
+范围
+ARA
+code_battlecarddragtool_0
+没有合法目标
+No target available
+code_cardslotpanel_0
+拖动指定目标
+Drag to assign target
+code_battleturninfopanel_0
+你的回合
+Your Turn
+code_battleturninfopanel_1
+敌方回合
+Enemy Turn
+code_battleunitoperation_0
+你无法这么做
+You can't do this.
+code_exchangecardpanel_0
+本关卡不能换牌
+Can't change cards in this stage
+code_exchangecardpanel_1
+牌堆数量不足
+Not enough cards in deck
+code_cardbufftippanel_0
+这是一个秘密
+This is a Secret...
+code_cardbufftippanel_1
+[奥秘]
+[Secret]
+code_changehandcardpanel_0
+%s不足%s
+Not enough %s. Need %s.
+code_changehandcardpanel_1
+限免
+Free in limited time
+code_proessputunit_0
+人口大于%s人
+Already %s units on the battlefield!
+code_proessputunit_1
+请根据提示操作
+Please follow instruction.
+code_usecardtool_0
+请根据提示操作
+Please follow instruction.
+code_usecardtool_1
+你无法这么做
+You can't do this.
+code_usecardtool_2
+Cost不足%s点
+You need %s Cost to do that.
+code_usecardtool_3
+士气不足%s点
+You need %s Morale to do that.
+code_blp3dchangemaxhp_0
++%s上限
+Upper limit +%s
+code_blp3dchangemaxhp_1
+%s上限
+Upper limit  %s
+code_blpunitattr_0
+移动%s
+MOV %s
+code_blpunitattr_1
+速度%s
+SPD %s
+code_poplabeleffect2dplayer_0
++%s上限
+Upper limit +%s
+code_poplabeleffect2dplayer_1
+%s上限
+Upper limit  %s
+code_gameconstant_0
+英雄
+General
+code_gameconstant_1
+技能
+Skill
+code_gameconstant_2
+佣兵
+Merc
+code_gameconstant_3
+机械
+Mecha
+code_gameconstant_4
+圣徒
+Saint
+code_gameconstant_5
+异端
+Heretic
+code_gameconstant_6
+建筑
+Object
+code_gameconstant_7
+神器
+Artifact
+code_gameconstant_8
+装备
+Equip
+code_gameconstant_9
+道具
+Item
+code_gameconstant_10
+法术
+Spell
+code_gameconstant_11
+副将
+Hero
+code_gameconstant_13
+英雄技能
+Skill
+code_gameconstant_14
+军备
+Arms
+code_checkversionpanel_0
+加载配置
+Loading settings
+code_checkversionpanel_1
+建立连接
+Connecting
+code_checkversionpanel_2
+进入游戏
+Entering game
+code_friendadddetailinfopanel_0
+暂缺
+Placeholder
+code_friendaddinfopanel_0
+暂未开放
+Unavailable now
+code_friendchatuipanel_0
+发送的消息不能为空
+No message to send.
+code_friendlistuipanel_0
+暂未开放
+Unavailable now
+code_unitdetailpanel_6
+%s详情
+%s Info
+code_initpartneruipanel_0
+请输入您的昵称
+Type in your nickname
+code_initpartneruipanel_1
+含有非法字符
+There are illegal words
+code_newbiehelppanel_0
+教学关卡
+Tutorial Stages
+code_newbiehelppanel_1
+功能说明
+Instruction
+code_gamenoticepanel_0
+确 定
+Confirm
+code_gamenoticepanel_1
+下一条
+Next
+code_gamesettingpanel_0
+注销并退出游戏？
+注销并退出游戏？
+code_gamesettingpanel_1
+注销
+注销
+code_invitationcodepanel_0
+请输入邀请码
+Please input Invitation code
+code_invitationcodepanel_1
+邀请码不合法
+Illegal invitation code
+code_invitationcodepanel_2
+不能输入自己的邀请码
+Can't use your invitation code
+code_invitationcodepanel_3
+邀请人不存在，请确认您是输入是否正确
+Code doesn't exist. Please check your type in.
+code_majorcitypanel_1
+测试标题2
+Test title 2
+code_majorcitypanel_2
+目前没什么特别的信息
+No special news right now~
+code_messageboxaskpanel_0
+确定
+Confirm
+code_messageboxaskpanel_1
+取消
+Cancel
+code_messageboxparameter_0
+确定
+Confirm
+code_messageboxparameter_1
+关闭
+Cancel
+code_messageboxtippanel_0
+确定
+Confirm
+code_servicedecorator_0
+请求超时
+Connection request expired.
+code_servicedecorator_1
+重试
+Retry
+code_servicedecorator_2
+登出
+Logout
+code_servicedecorator_3
+操作出错啦 >_<
+Something goes wrong >_<
+code_squadrecommendpanel_0
+自定义
+Edit
+code_squaduipanel_0
+创建卡组
+Create
+code_squaduipanel_1
+已达到最大自定义编队，无法再创建
+Can't create more groups
+code_squaduipanel_3
+含有非法字符
+There are illegal words
+code_squaduipanel_4
+更换卡组
+Change
+code_squaduipanel_5
+确定删除[25FA13FF]%s[-]编队吗？
+Are you sure to delete [25FA13FF]%s[-]?
+code_squaduipanel_8
+自定义1
+Customize 1
+code_squaduipanel_10
+已有不同级别的卡牌存在
+Unit with different level in deck
+code_squaduipanel_11
+初始卡组
+Warband-
+code_squaduipanel_12
+[b]未解锁
+[b]Locked
+code_squaduipanel_13
+[b]国籍不符
+[b]Can't use cards of this kingdom
+code_squaduipanel_14
+已有同级别的卡牌存在
+已有同级别的卡牌存在
+code_supplystationgoodspanel_0
+次数:%s/%s
+Times: %s/%s
+code_supplystationgoodspanel_1
+%s后免费(%s/%s)
+Free card after%s (%s/%s)
+code_supplystationgoodspanel_2
+%s不足
+Not enough %s.
+code_supplystationgoodspanel_3
+抽取将消耗%s%s
+This draw will cost you %s %s.
+code_goldshopuipanel_0
+无次数
+无次数
+code_goldshopuipanel_1
+本次炼金花费%s钻石
+本次炼金花费%s钻石
+code_goldshopuipanel_2
+钻石不足
+钻石不足
+code_itemshopitempanel_0
+%s折
+%s折
+code_itemshopuipanel_0
+购买%s*%s\r\n花费您%s%s
+Buying %s*%s\r\n will cost you %s%s
+code_itemshopuipanel_1
+获得%s*%s
+Received %s*%s
+code_warehousesellpanel_0
+你确定要出售%s个%s吗
+Are you sure to sell %s个%s?
+code_warehousesellpanel_1
+获得%s%s
+Received %s%s
+code_arenajoinmatchpanel_0
+没有配置队伍
+You need a group to proceed.
+code_arenajoinmatchpanel_1
+队伍 
+Deck
+code_arenajoinmatchpanel_4
+队伍里没有配置主将
+No General in your deck
+code_arenajoinmatchpanel_5
+队伍里含有不符合国家的卡牌
+Illegal cards in your deck
+code_arenajoinmatchpanel_6
+队伍里的卡牌数量不足
+Not enough cards in your deck
+code_arenajoinmatchpanel_7
+队伍配置有问题
+Ilegal deck
+code_winawardpanel_0
+万
+0 k
+code_worldwaypointmappanel_0
+升级了再来试试吧
+Please try again after level up
+code_cityscenepanel_0
+黑市商店
+黑市商店
+code_cityscenepanel_1
+委托任务
+委托任务
+cscode_luaentry_systeminit
+正在初始化，请稍候
+System initiating...
+cscode_projectxupdater_checkver
+检查游戏版本
+Checking game version
+cscode_projectxupdater_checkdownloadend
+游戏资源更新完成
+Game resources updated
+cscode_projectxupdater_startupdate
+开始更新资源
+Resources updating initiating
+cscode_projectxupdater_rescomplete
+资源加载完成
+Resources loading complete
+cscode_projectxupdater_resupdating
+资源更新中
+Updating game resources
+cscode_projectxnoticeloader_cplt
+公告更新中
+News refreshed
+cscode_luasetup_loading
+系统加载中
+System loading…
+cscode_projectxroute_cplt
+更新服务列表
+Sever adress checked
+UI_NewbieHelpPanel_Root_Tab_PVE_Unselect_Label (1)
+教学关卡
+Tutorial Stages
+UI_NewbieHelpPanel_Root_Tab_PVE_Selected_Sprite_Label
+教学关卡
+Tutorial Stages
+UI_NewbieHelpPanel_Root_Tab_Manual_Unselect_Label (1)
+功能说明
+Instructions
+UI_NewbieHelpPanel_Root_Tab_Manual_Selected_Sprite_Label
+功能说明
+Instructions
+UI_NewbieHelpPanel_Root_Title
+教学关卡
+Tutorial Stages
+UI_NewbieItemPanel_Title
+功能说明
+Instructions
+UI_NewbieItemPanel_Detail
+[b]功能说明
+[b]Instruction
+UI_NewbieItemPanel_ManualBtn_Label
+[b]查 看
+[b]Check
+UI_NewbieItemPanel_PveBtn_Label
+[b]进 入
+[b]Enter
+UI_FullSceneLoadingPanel_LoadingText_t1_Label (8)
+[b]正
+[b]L
+UI_FullSceneLoadingPanel_LoadingText_t2_Label (7)
+[b]在
+[b]O
+UI_FullSceneLoadingPanel_LoadingText_t3_Label (8)
+[b]加
+[b]A
+UI_FullSceneLoadingPanel_LoadingText_t4_Label (6)
+[b]载
+[b]D
+UI_FullSceneLoadingPanel_LoadingText_t5_Label (5)
+[b]请
+[b]I
+UI_FullSceneLoadingPanel_LoadingText_t6_Label (4)
+[b]稍
+[b]N
+UI_FullSceneLoadingPanel_LoadingText_t7_Label (3)
+[b]候
+[b]G
+UI_FullSceneLoadingPanel_FinishLabel
+等待对手玩家
+Waiting for opponent player
+UI_FullSceneLoadingPanel_CaptionLabel
+等待对手玩家
+Waiting for opponent player
+UI_IndicatorPanel_Label
+[b]等待
+[b]Waiting
+UI_Loading_MessageTip_Label
+[b]关闭
+[b]Close
+UI_BattleBigCardPanel_LeftName
+[b]移动
+[b]MOV
+UI_BattleBigCardPanel_RightName
+[b]射程
+[b]RNG
+UI_BattleHexMapPanel_UI Root (Battle2D)_Battle2DNode_UI_ExchangeCard_ViewRoot_ChangeTip_OKButton_Label
+[b]确  定
+[b]Confirm
+UI_BattleHexMapPanel_UI Root (Battle2D)_Battle2DNode_UI_ExchangeCard_ViewRoot_WaitTip_JumpLabel_Label
+正在等待对手......
+Waiting for opponent......
+UI_BattleHexMapPanel_UI Root (Battle2D)_Battle2DNode_UI_ExchangeCard_ViewRoot_WaitTip_Connect
+对手连接正常
+Opponent connected
+UI_BattleHexMapPanel_UI Root (Battle2D)_Battle2DNode_UI_WatchBattle_Bk_Label
+[b]离开观战[-]
+[b]Leave[-]
+UI_BattleHexMapPanel_UI Root (Battle2D)_Battle2DNode_CardBarNode_CardBarSkillMark_NoneTargetTip_Label
+放入战场任意位置......
+Release on any grid......
+UI_BattleHexMapPanel_UI Root (Battle2D)_Battle2DNode_CardBarNode_ChangeHandCard_ChangeBtn_Label
+换牌
+Shuffle
+UI_InitPartnerUIPanel_root_button_bg
+[b]进入游戏
+[b]Confirm
+UI_InitPartnerUIPanel_root_input_label
+请输入您的昵称
+Please type in here.
+UI_InitPartnerUIPanel_root_input_Label
+您的昵称
+Nickname
+UI_InitPartnerUIPanel_root_Tip_Tip
+请输入昵称后登录
+Pleae type in your nickname before enter.
+code_xqandroidplatformmanager_0
+注册成功
+Register successful.
+code_xqloginscreenpanel_0
+如果您需要使用手机号码作为帐号，请选择手机注册
+Yous can also register with your phone number
+code_xqloginscreenpanel_1
+验证码已发往您的手机，请注意查收
+Verify code has sent to your phone number. Please check.
+code_xqloginscreenpanel_2
+获取验码
+Retrieve
+code_xqloginscreenpanel_3
+注册名不能为空
+Account name can't be empty
+code_xqloginscreenpanel_4
+帐号含有非法字符
+Illeagal words in your account.
+code_xqloginscreenpanel_6
+密码不能为空
+Password can't be empty.
+code_xqloginscreenpanel_7
+密码含有非法字符
+Illeagal words in your password.
+code_xqloginscreenpanel_9
+两次密码不一致
+Password do not match.
+code_xqloginscreenpanel_10
+获取验证码
+Verify code
+code_xqloginscreenpanel_14
+获取用户信息失败
+Fail to receive user information
+UI_XQLoginScreenPanel_Root_Landed_accountnumber_Label
+帐号
+Account
+UI_XQLoginScreenPanel_Root_Landed_password_Label (1)
+密码
+Password
+UI_XQLoginScreenPanel_Root_Landed_Signin_signin_Label
+[b]登 录
+[b]Login
+UI_XQLoginScreenPanel_Root_Landed_registered_registered_Label (1)
+[b]注 册
+[b]Register
+UI_XQLoginScreenPanel_Root_Landed__bk_Label (1)
+登 录
+Login
+UI_XQLoginScreenPanel_Root_Registered_Pages_XQPlatform_BtnXQRegister_Label (2)
+[b]注 册
+[b]Register
+UI_XQLoginScreenPanel_Root_Registered_Pages_XQPhone_On-XQPhone__bk_Label
+手机注册
+Phone
+UI_XQLoginScreenPanel_Root_Registered_Pages_XQPhone_Off_Label
+手机注册
+Phone
+UI_XQLoginScreenPanel_Root_Registered_Pages_XQPhone_On-XQPhone_BtnAuthCode_AuthCode
+[b]获取验证码
+[b]Send Verify code
+UI_XQLoginScreenPanel_Root_Registered_Pages_XQAccount_On-XQAccount__bk_Label
+帐号注册
+Account
+UI_XQLoginScreenPanel_Root_Registered_Pages_XQAccount_Off_Label
+帐号注册
+Account
+UI_XQLoginScreenPanel_Root_Landed_Signin_wxsinin_Label
+[b]微信登录
+[b]Wechat Login
+UI_XQLoginScreenPanel_Root_Registered__bk_Label (1)
+注册
+Register
+UI_XQLoginScreenPanel_Root_Registered_Pages_XQPhone_On-XQPhone_PhoneNum_Name
+手机号
+Phone
+UI_XQLoginScreenPanel_Root_Registered_Pages_XQPhone_On-XQPhone_AuthCode_Name
+验证码
+Verify Code
+UI_XQLoginScreenPanel_Root_Registered_Pages_XQPhone_On-XQPhone_PhonePassword_Name
+密码
+Password
+UI_XQLoginScreenPanel_Root_Registered_Pages_XQAccount_On-XQAccount_Account_AccountName
+账号
+Account
+UI_XQLoginScreenPanel_Root_Registered_Pages_XQAccount_On-XQAccount_password_PasswordName
+密码
+Password
+UI_ChatUIPanel_bg_root_bg_3_bg_3_2
+聊天
+Chat
+UI_ChatUIPanel_send_btn_bg_2
+[b]发 送
+[b]Send
+UI_ChatUIPanel_input_panel_label
+请输入文字（最多可以输入50字）
+Please type in here (Max 50 bytes)
+UI_LuaUnitTestPanel_RunButton
+运行(R)
+Run (R)
+code_chatitemuipanel_0
+不能参加自己发起的对战
+Can't join your own battle.
+code_chatuipanel_0
+发送的消息不能为空
+No message to send.
+UI_HeroHandbookPanel_Root__bk_title
+[b]英雄之门
+[b]Fortress
+UI_HeroHandbookPanel_Root_Portrait_HeroPortrait_HeroPortraitUnlockTip_Label
+未解锁
+Locked
+UI_HeroHandbookPanel_Root_Portrait_HeroPortrait2_HeroPortrait2UnlockTip_Label
+未解锁
+Locked
+UI_UnitDetailPanel_CardRoot_UnlockCardTip_Label
+[b]未解锁
+[b]Locked
+UI_UnitDetailPanel_Biography_Title_Label
+传记
+Biology
+UI_UnitDetailPanel_Detail_Title_Label
+描述
+Keywords
+UI_UnitDetailPanel_Detail_DetailNone1
+[b]无
+[b]None
+UI_UnitDetailPanel_Detail_DetailNone2
+[b]无
+[b]None
+UI_UnitDetailPanel_UpgradeBtn_UpgradeBtn
+[b]立即升级
+[b]Upgrade
+UI_UnitDetailPanel_Title
+单位详情
+Unit Details
+UI_HeroHandbookPanel_Root_HeroDetails__bk_Label
+[b]英 雄
+[b]General
+UI_HeroHandbookPanel_Root_HeroDetails_HeroMove
+[b]移动
+[b]MOV
+UI_HeroHandbookPanel_Root_HeroDetails_HeroRange
+[b]射程
+[b]RNG
+UI_UnitHandbookPanel__bk_title (1)
+[b]佣兵大营
+[b]Barrack
+UI_UnitHandbookPanel_Filter_FilterButtons_All_Selected_Label
+[b]全部
+[b]All
+UI_UnitHandbookPanel_Filter_FilterButtons_All_Unselected_Label (1)
+[b]全部
+[b]All
+UI_UnitHandbookPanel_Filter_FilterButtons_Unit_Selected_Label
+[b]单位
+[b]Unit
+UI_UnitHandbookPanel_Filter_FilterButtons_Unit_Unselected_Label (1)
+[b]单位
+[b]Unit
+UI_UnitHandbookPanel_Filter_FilterButtons_Arsenal_Selected_Label
+[b]军备
+[b]Armament
+UI_UnitHandbookPanel_Filter_FilterButtons_Arsenal_Unselected_Label (1)
+[b]军备
+[b]Armament
+UI_UnitHandbookPanel_BackBtn
+返回
+Back
+UI_UnitHandbookPanel_UnitDetail_DetailPanels_UnitDetailRoot_CardRoot_Evaluate_Label
+[b]评 价
+[b]Review
+UI_UnitHandbookPanel_UnitDetail_DetailPanels_UnitDetailRoot2_CardRoot_Evaluate_Label
+[b]评 价
+[b]Review
+UI_SquadUIPanel_p1_top_team_bg_txmhj_100
+队伍编辑
+Warband
+UI_SquadRecommendPanel_name
+[b]自定义1
+[b]Customize 1
+UI_SquadUIPanel_p1_top_team_bg_return
+完成
+Done
+UI_SquadUIPanel_p1_top_filter_btn_txmhj_100
+筛选
+Filter
+UI_SquadUIPanel_p1_top_group_filter_popup_Label
+卡组类型
+Deck Kind
+UI_SquadUIPanel_p1_top_group_filter_popup_popuplist_p1_Label
+自定义卡组
+Custom Deck
+UI_SquadUIPanel_p1_top_group_filter_popup_popuplist_p2_Label
+推荐卡组
+Recommended Deck
+UI_SquadUIPanel_p1_top_group_filter_popup_popuplist_p3_Label
+体验卡组
+Test Deck
+UI_SquadUIPanel_p1_top_change_btn_create_change
+创建卡组
+Create
+UI_SquadUIPanel_p1_del_cardgroup_Label
+删除卡组
+Delete
+UI_SquadUIPanel_select_area_create_TextLabel
+卡组名
+Deck Name
+UI_SquadUIPanel_select_area_create_create_close_Label
+[b]取消
+[b]Cancel
+UI_SquadUIPanel_select_area_create_create_ok_Label
+[b]确定
+[b]Confirm
+UI_SquadUIPanel_units_units_second_hero_hero1_p_hero_quality_errotxt
+未解锁
+Locked
+UI_SquadUIPanel_units_units_second_hero_hero2_p_hero_quality_errotxt
+未解锁
+Locked
+UI_SquadUIPanel_units_units_second_hero_hero3_p_hero_quality_errotxt
+未解锁
+Locked
+UI_SquadUIPanel_units_units_units_unit1_p_unit_quality_errotxt
+未解锁
+Locked
+UI_SquadUIPanel_units_units_units_unit2_p_unit_quality_errotxt
+未解锁
+Locked
+UI_SquadUIPanel_units_units_units_unit3_p_unit_quality_errotxt
+未解锁
+Locked
+UI_SquadUIPanel_units_units_units_unit4_p_unit_quality_errotxt
+未解锁
+Locked
+UI_SquadUIPanel_units_units_units_unit5_p_unit_quality_errotxt
+未解锁
+Locked
+UI_SquadUIPanel_units_units_skills_skill1_p_skill_quality_errotxt
+未解锁
+Locked
+UI_SquadUIPanel_units_units_skills_skill2_p_skill_quality_errotxt
+未解锁
+Locked
+UI_SquadUIPanel_units_units_skills_skill3_p_skill_quality_errotxt
+未解锁
+Locked
+UI_SquadUIPanel_units_units_skills_skill4_p_skill_quality_errotxt
+未解锁
+Locked
+UI_SquadUIPanel_units_units_skills_skill5_p_skill_quality_errotxt
+未解锁
+Locked
+UI_SquadUIPanel_units_filter_panel_bg_Label
+请选择筛选内容
+Choose Factor
+UI_SquadUIPanel_units_filter_panel_left_-1_Label
+全部国家
+All
+UI_SquadUIPanel_units_filter_panel_left_0_Label
+自由之剑
+Freeswords
+UI_SquadUIPanel_units_filter_panel_left_1_Label
+艾诺利亚
+Enoria
+UI_SquadUIPanel_units_filter_panel_left_2_Label
+特兰多尼亚
+Trendonia
+UI_SquadUIPanel_units_filter_panel_left_3_Label
+依瑞尼亚
+Irenia
+UI_SquadUIPanel_units_filter_panel_left_4_Label
+克拉司塔尔
+Crosstar
+UI_SquadUIPanel_units_filter_panel_right_specbtn_Label
+全部
+All
+UI_SquadUIPanel_select_area_create_recommend_TextLabel
+是否使用该英雄的推荐配置
+Do you wish to use Basic Deck of this General?
+UI_SquadUIPanel_units_team_mask_select_tip
+请选择卡组
+Select Your Deck
+UI_SupplystationPanel__bk_title (2)
+[b]补给站
+[b]Tavern
+UI_SupplystationGotchaPanel_Root_Content_Again_Root_Again_Label
+再抽一次
+Draw Again
+UI_SupplystationGotchaPanel_Root_Content_BackBtn
+返回
+Back
+UI_SupplystationPanel_BackBtn
+返回
+Back
+UI_GoldShopUIPanel_bg_root_bg_5_panel_bg_root_bg_5
+[b]每次炼金累计提高百分比，永久增加金币额度
+[b]每次炼金累计提高百分比，永久增加金币额度
+UI_GoldShopUIPanel_bg_root_bg_5_panel_bg_root_bg_6
+[b]今日剩余次数：
+[b]今日剩余次数：
+UI_GoldShopUIPanel_bg_root_bg_5_panel_bg_root_bg_8
+[b]可获得
+[b]可获得
+UI_GoldShopUIPanel_bg_root_bg_5_panel_bg_root_bg_9
+[b]距离刷新还有[-]
+[b]距离刷新还有[-]
+UI_GoldShopUIPanel_bg_root_bg_5_panel_btn_root_root_buy_btn_bg_2
+[b]炼 金[-]
+[b]炼 金[-]
+UI_ItemShopItemPanel_bg_root_bg_2
+数量
+数量
+UI_ItemShopItemPanel_discount_discountNumber
+[b]3折[b]
+[b]3折[b]
+UI_ItemShopItemPanel_itemName
+高级道具名称
+高级道具名称
+UI_ItemShopItemPanel_buy_btn_select_bg_2
+[b]购 买[-]
+[b]购 买[-]
+UI_ItemShopItemPanel_buy_btn_unselect_bg_2
+[b]售 罄[-]
+[b]售 罄[-]
+UI_ItemShopUIPanel_bg_root_bg_5_panel_bg_root_bg_5
+[b]距离下次道具刷新时间还剩[-]
+[b]距离下次道具刷新时间还剩[-]
+UI_JoinMatchPanel_team_bg_txmhj_100
+战斗匹配
+War!
+UI_JoinMatchPanel_team_bg_return
+返回
+Back
+UI_JoinMatchPanel_rank
+[b]排行榜
+[b]Rank
+UI_JoinMatchPanel_toteam
+[b]队伍配置
+[b]Warband
+UI_JoinMatchPanel_team_fight_price
+出战费用
+Expenses
+UI_JoinMatchPanel_team_fight_cnt
+战斗场次
+Battle Times
+UI_JoinMatchPanel_match_match_cancel_match_Label
+取消
+Cancel
+UI_MatchPlayerPanel_other_titlebg_title1
+无
+None
+UI_MatchPlayerPanel_other_titlebg_title2
+无
+None
+UI_MatchPlayerPanel_other_titlebg_label
+玩家称号
+Nickname
+UI_MatchPlayerPanel_other_honorbg_honor1
+无
+None
+UI_MatchPlayerPanel_other_honorbg_honor2
+无
+None
+UI_MatchPlayerPanel_other_honorbg_label
+玩家爵位
+Title
+UI_MatchPlayerPanel_other_wincntbg_label
+战功
+Honor
+UI_MatchPlayerPanel_other_rankbg_label
+排名
+Rank
+UI_JoinMatchPanel_fight_winrate_Label
+胜率
+Win Rate
+UI_MatchPlayerPanel_other_winratebg_label
+胜率
+Win Rate
+UI_MatchPlayerPanel_other_btmtip
+等待玩家加入......
+Waiting for player to join......
+UI_MatchPlayerPanel_exit_Label
+撤退
+Retreat
+UI_BattleResultPanel_info_info_fight_get_title
+战斗收益
+War trophy
+UI_RankAwardChildPanel_tileframe_ranklvl
+第%s名奖励
+Rank %s reward
+code_tileframe_ranklvl
+第%s名奖励
+Rank %s reward
+code_joinmatchpanel_2
+发现敌人，准备战斗
+Engaged enemy. Preapring to fight.
+code_joinmatchpanel_3
+扣除出战费用[00ff00]%d[-]，正在进入战场
+Expenses [00ff00]%d[-] has spent. Joining battlefield.
+code_joinmatchpanel_5
+前往战场，寻找敌方部队
+Searching for enemy troops.
+code_matchplayerpanel_0
+级
+Level
+code_matchplayerpanel_1
+无
+None
+code_matchplayerpanel_6
+加载战斗数据中......
+Loading battle data......
+UI_MarketEntryPanel_bg_root_bg_2
+商城
+Store
+UI_MarketEntryPanel_btn_root_root_task_btn_select_bg_3
+道具商店
+Item Shop
+UI_MarketEntryPanel_btn_root_root_task_btn_unselect_bg_3
+道具商店
+Item Shop
+UI_MarketEntryPanel_btn_root_root_blackMarket_btn_unselect_bg_3
+炼金坊
+Alchemy
+UI_MarketEntryPanel_btn_root_root_blackMarket_btn_select_bg_3
+炼金坊
+Alchemy
+UI_MarketEntryPanel_btn_root_root_unitBuy_btn_select_bg_3
+金币商店
+Gold Shop
+UI_MarketEntryPanel_btn_root_root_unitBuy_btn_unselect_bg_3
+金币商店
+Gold Shop
+UI_MarketEntryPanel_btn_root_root_close_btn
+返回
+Back
+UI_DiamondShopUIPanel_bg_root_bg_5_panel_itemGrid_1_buy_btn_select_1_bg_2
+[b]购 买[-]
+[b]Purchase[-]
+UI_TaskItemPanel_Root_Finish_Label
+[b]完 成
+[b]Complete
+UI_TaskItemPanel_Root_UnFinish_Label
+[b]完 成
+[b]Complete
+UI_UserTaskPanel_BackBtn
+返回
+Back
+UI_UserTaskPanel_SpecialType_Root_SpecialType
+成就任务
+Achievement Quest
+UI_UserTaskPanel_TypePageTitle_DailyQuest_Root_Icon
+每日任务
+Daily Quest
+UI_UserTaskPanel_TypePageTitle_Achievement_Root_Icon
+成就任务
+Achievement Quest
+UI_UserTaskPanel_TypePageTitle_Campaign_Root_Icon
+战役任务
+Campaign Quest
+UI_UserTaskPanel_DailyFinish_Label
+[b]今日剩余任务
+[b]Today's quest
+UI_UserTaskPanel_Reward_Dlg_RewardOk_Label
+[b]确 定
+[b]Confirm
+UI_BattleRankPanel_ranking_switchtab_score_Label
+天梯排行
+Ladder
+UI_BattleRankPanel_ranking_switchtab_fightwin_Label
+战斗场数排行
+Battles
+UI_BattleRankPanel_ranking_switchtab_wincnt_Label
+胜利场数排行
+Winnings
+UI_BattleRankPanel_ranking_switchtab_winrate_Label
+胜率排行
+Win Rate
+UI_BattleRankPanel_ranking_switchtab_gold_Label
+财富排行
+Gold
+UI_BattleRankPanel_ranking_switchtab_keepwincnt_Label
+连胜数排行
+Win Streak
+UI_BattleRankPanel_ranking_switchtab_collectionrate_Label
+收集率排行
+Collection
+UI_BattleRankPanel_ranking_rankbtn_rank_title_dync
+天梯等级
+Ladder
+UI_BattleRankPanel_ranking_honortab_myhonor_frame_tile_title
+传奇 I
+Legend I
+UI_BattleRankPanel_ranking_honortab_myhonor_frame_tile_info_dyna_pvp
+天梯等级
+Rank
+UI_WinRankChildPanel_frame_tile_title
+传奇I
+Legend I
+UI_WinRankChildPanel_frame_tile_info_dyna_pvp
+天梯等级
+Ladder
+UI_BattleRankPanel_bg_back
+返回
+Back
+UI_BattleRankPanel_bg_txmhj_100
+排行榜
+Rank
+UI_BattleRankPanel_ranking_awardbtn_awardbtn_select_Label
+切换榜单
+Switch
+UI_BattleRankPanel_ranking_honortab_myhonor_myrank
+我的排名
+My Rank
+UI_BattleHexMapPanel_UI Root (Battle2D)_Battle2DNode_CardBarNode_ChangeHandCard_ChangeBtn_Free_Label
+[b]免费次数
+[b]Free
+code_f_ranking_rank_pvp
+天梯等级
+Ladder
+code_battlerank_show_award_label
+查询奖励
+Rewards
+code_rank_no_rank
+无排名
+Unranked
+code_f_ranking_rank_tf
+战斗场次
+Battles
+code_f_ranking_rank_tw
+胜利场次
+Winnings
+code_f_ranking_rank_wp
+胜率
+Win Rate
+code_f_ranking_rank_gold
+财富
+Gold
+code_f_ranking_rank_ws
+连胜
+Win Streak
+code_f_ranking_rank_cr
+收集
+Collection
+code_f_ranking_rank_pvp_award
+天梯奖励
+Ladder
+code_f_ranking_rank_tf_award
+战斗场次奖励
+Battles
+code_f_ranking_rank_tw_award
+胜利场次奖励
+Winnings
+code_f_ranking_rank_wp_award
+胜率奖励
+Win Rate
+code_f_ranking_rank_gold_award
+财富奖励
+Gold
+code_f_ranking_rank_ws_award
+连胜奖励
+Win Streak
+code_f_ranking_rank_cr_award
+收集奖励
+Collection
+code_battlerank_ret_rank_label
+返回排行
+Rank
+UI_WorldChatPanel_Root_RootPanel_Chat_Label
+请输入聊天内容
+Please type in here
+UI_WorldChatPanel_Root_RootPanel_SendBtn_Label
+[b]发 送
+[b]Send
+UI_HeroPveItemPanel_StartBtn_Label
+[b]进 入
+[b]Enter
+UI_HeroPveListPanel__bk_Sprite_Title
+英雄列传
+Challenge
+UI_UnitDetailPanel_CardRoot_Evaluate_Label
+[b]评 价
+[b]Review
+UI_UnitEvaluatePanel_Input_Evaluate_Label
+请输入评论 内容... (100字以内)
+Please type in here... (100 bytes)
+UI_UnitEvaluatePanel_Input_SendBtn_Label
+[b]发 送
+[b]Send
+UI_PayPanel_pay_zfb_Label_dync
+支付宝
+支付宝
+UI_MailItemPanel_ReadBtn_Label
+[b]阅 读
+[b]Read
+UI_MailItemPanel_ReceiveBtn_Label
+[b]领 取
+[b]Collect
+UI_MailItemPanel_DeleteBtn_Label
+[b]删 除
+[b]Collect
+UI_MailOpenUIPanel_DeleteBtn_Label
+[b]删 除
+[b]Collect
+UI_MailOpenUIPanel_AcceptBtn_Label
+[b]领 取
+[b]Collect
+UI_MailUIPanel_RootPanel_mailCount_mailCount (1)
+邮件数量：
+Mails:
+UI_MailUIPanel_RootPanel_ReceiveAll_Label
+[b]一键领取
+[b]Collect all
+code_mailitempanel_0
+剩余:%s天
+Expire:%s days
+code_mailopenuipanel_0
+请先领取附件
+Please collect first.
+code_mailopenuipanel_1
+附件已经领取过了
+You have collected it.
+code_mailopenuipanel_2
+邮件日期:%s
+Date:%s
+code_mailuipanel_0
+获得%s*%s
+Received %s*%s
+UI_GameNoticePanel_Root_Dlg_Title
+[b]公 告
+[b]News
+UI_GameNoticePanel_Root_Dlg_OkBtn_OkBtn
+[b]确 定
+[b]Confirm
+UI_GameNoticePanel_Root_Dlg_DontShow_Label
+[b]今天不再显示
+[b]Don't show this today
+UI_GameSettingPanel_BGM_Label (1)
+[b]音乐
+[b]Music
+UI_GameSettingPanel_ES_Label (1)
+[b]音效
+[b]Sound
+UI_GameSettingPanel_Exit_Label
+[b]退出登录
+[b]Quit
+UI_GameSettingPanel_InvitationBtn_Label
+[b]查看邀请ID
+[b]Host ID
+UI_InvitationCodePanel_Root__bk_MyLabel
+[b]我的
+[b]My
+UI_InvitationCodePanel_Root__bk_Label
+邀请人
+Host
+UI_InvitationCodePanel_Root__bk_Tip (1)
+[b]邀请人ID只能输入一次
+[b]You can only input Host ID once.
+UI_InvitationCodePanel_Root__bk_Tip
+[b]被邀请人达到一定等级，邀请人和被邀请人都能完成指定的邀请任务获得限定英雄奖励。
+[b]Once your Guest reached level 10, both you and your Guest will receive limited rewards.
+UI_InvitationCodePanel_Root_DisableBtn_Label
+[b]确 认
+[b]Confirm
+UI_InvitationCodePanel_Root_InputOKBtn_Label
+[b]确 认
+[b]Confirm
+UI_InvitationCodePanel_Root_Tip_Label
+[b]输入成功
+[b]Input successful!
+UI_UserInfoPanel_InfoRoot_Level_Level (1)
+等级
+Level
+UI_BattleTalkSettingPanel_Root_ListDlg_bk_Title
+表情编辑
+Battle Emoji
+UI_BattleTalkSettingPanel_Root_ListDlg_List_Item1_Title
+战场表情 1
+Emoji 1
+UI_BattleTalkSettingPanel_Root_ListDlg_List_Item2_Title
+战场表情 2
+Emoji 2
+UI_BattleTalkSettingPanel_Root_ListDlg_List_Item3_Title
+战场表情 3
+Emoji 3
+UI_BattleTalkSettingPanel_Root_ListDlg_List_Item4_Title
+战场表情 4
+Emoji 4
+UI_BattleTalkSettingPanel_Root_EditorDlg__bk_Title (1)
+自定义战场表情
+Customize Emoji
+UI_BattleTalkSettingPanel_Root_EditorDlg_Label
+2~32 个字符
+2~32 bits
+UI_BattleTalkSettingPanel_Root_EditorDlg_EditorOkBtn_Label
+[b]确 定
+[b]Confirm
+UI_GameSettingPanel_BattleTalkBtn_Label
+[b]自定义表情
+[b]Emoji
+code_f_battle_chat_default_1
+你好！
+Hello!
+code_f_battle_chat_default_2
+谢谢！
+Thanks!
+code_f_battle_chat_default_3
+抱歉！
+Sorry!
+code_f_battle_chat_default_4
+打得不错！
+Good game!
+UI_FriendAddDetailInfoPanel_root_bg_root_bg_6
+佣兵团等级
+Order Level
+UI_FriendAddDetailInfoPanel_root_bg_root_bg_10
+英雄数
+Hero Owned
+UI_FriendAddDetailInfoPanel_root_bg_root_bg_11
+当前战役胜率
+Current Win Rate
+UI_FriendAddDetailInfoPanel_root_bg_root_bg_12
+个人胜率
+Personal Win Rate
+UI_FriendAddDetailInfoPanel_root_bg_root_bg_13
+解锁佣兵数
+Unlocked Merc
+UI_FriendAddDetailInfoPanel_root_bg_root_bg_14
+当前战役战功
+Current Honor
+UI_FriendAddDetailInfoPanel_root_bg_root_bg_15
+成就
+Achievement
+UI_FriendAddInfoPanel_root_btn_root_btn_chat_bg
+[b]聊天
+[b]聊天
+UI_FriendAddInfoPanel_root_btn_root_btn_info_bg
+[b]玩家信息
+[b]玩家信息
+UI_FriendAddInfoPanel_root_btn_root_btn_pk_bg
+[b]邀请对战
+[b]邀请对战
+UI_FriendAddInfoPanel_root_btn_root_btn_add_bg
+[b]添加好友
+[b]添加好友
+UI_FriendAddInfoPanel_root_btn_root_btn_squad_bg
+[b]查看队伍
+[b]查看队伍
+UI_FriendAddInfoPanel_root_btn_root_btn_look_bg
+[b]观战
+[b]观战
+UI_FriendAddInfoPanel_root_btn_root_btn_delete_bg
+[b]删除好友
+[b]删除好友
+UI_FriendAddInfoPanel_root_isOnline_bg
+[b]在 线
+[b]Online
+UI_FriendAddInfoPanel_root_isOffline_bg
+[b]离 线
+[b]Offline
+UI_FriendAddInfoPanel_root_isFight_bg
+[b]战斗中
+[b]In Battle
+UI_FriendAddInfoPanel_root_isSend_bg_3
+[b]已发出好友邀请，等待对方通过
+[b]已发出好友邀请，等待对方通过
+UI_FriendAddItemUIPanel_refuse_btn_bg
+[b]拒 绝
+[b]拒 绝
+UI_FriendAddItemUIPanel_agree_btn_bg
+[b]同 意
+[b]同 意
+UI_FriendAddUIPanel_btn_root_btn_grid_select_button_0_select_label
+[b]好友申请[-]
+[b]好友申请[-]
+UI_FriendAddUIPanel_btn_root_btn_grid_select_button_0_unselect_label
+[b]好友申请[-]
+[b]好友申请[-]
+UI_FriendAddUIPanel_btn_root_btn_grid_select_button_1_select_label
+[b]推荐好友[-]
+[b]推荐好友[-]
+UI_FriendAddUIPanel_btn_root_btn_grid_select_button_1_unselect_label
+[b]推荐好友[-]
+[b]推荐好友[-]
+UI_FriendAddUIPanel_btn_root_refuse_btn_bg_2
+[b]全部拒绝[-]
+[b]全部拒绝[-]
+UI_FriendAddUIPanel_btn_root_agree_btn_bg_2
+[b]全部同意[-]
+[b]全部同意[-]
+UI_FriendAddUIPanel_btn_root_search_btn_bg_2
+[b]搜 索[-]
+[b]Search[-]
+UI_FriendAddUIPanel_btn_root_input_panel_label
+输入ID或昵称搜索玩家
+Type in ID or nickname
+UI_FriendChatUIPanel_isOnline_bg
+[b]在 线
+[b]Online
+UI_FriendChatUIPanel_isOffline_bg
+[b]离 线
+[b]Offline
+UI_FriendChatUIPanel_isFight_bg
+[b]战斗中
+[b]In Battle
+UI_FriendChatUIPanel_bg_root_bg_3_bg_3_2
+聊天
+Chat
+UI_FriendChatUIPanel_send_btn_bg_2
+[b]发 送
+[b]Send
+UI_FriendChatUIPanel_input_panel_label
+请输入文字（最多可以输入50字）
+Please type in here (Max 50 bytes)
+UI_FriendListItemUIPanel_isOnline_bg
+[b]在 线
+[b]Online
+UI_FriendListItemUIPanel_isOffline_bg
+[b]离 线
+[b]Offline
+UI_FriendListItemUIPanel_isFight_bg
+[b]战斗中
+[b]In Battle
+UI_FriendListUIPanel_btn_root_btn_grid_select_button_0_select_label
+[b]全部好友[-]
+[b]All Friends[-]
+UI_FriendListUIPanel_btn_root_btn_grid_select_button_0_unselect_label
+[b]全部好友[-]
+[b]All Friends[-]
+UI_FriendListUIPanel_btn_root_btn_grid_select_button_1_select_label
+[b]最近联系[-]
+[b]Recently Touched[-]
+UI_FriendListUIPanel_btn_root_btn_grid_select_button_1_unselect_label
+[b]最近联系[-]
+[b]Recently Touched[-]
+UI_FriendListUIPanel_btn_root_btn_grid_select_button_2_select_label
+[b]最近对战[-]
+[b]Recently Fought[-]
+UI_FriendListUIPanel_btn_root_btn_grid_select_button_2_unselect_label
+[b]最近对战[-]
+[b]Recently Fought[-]
+UI_FriendUIPanel_btn_root_root_task_btn_select_bg_3
+好 友
+Friends
+UI_FriendUIPanel_btn_root_root_task_btn_unselect_bg_3
+好 友
+Friends
+UI_FriendUIPanel_btn_root_root_blackMarket_btn_select_bg_3
+添加好友
+Add friend
+UI_FriendUIPanel_btn_root_root_blackMarket_btn_unselect_bg_3
+添加好友
+Add friend
+UI_FriendUIPanel_btn_root_root_unitBuy_btn_select_bg_3
+佣兵招募
+Recruit Merc
+UI_FriendUIPanel_btn_root_root_unitBuy_btn_unselect_bg_3
+佣兵招募
+Recruit Merc
+UI_HeroHandbookPanel_Root_BackBtn
+返回
+Back
+UI_SupplystationGoodsLittleItemPanel_Root_CardRoot_NewTip_Label
+[b]已解锁
+[b]Unlocked
+UI_DiamondShopItemPanel_BuyBtn_Cost
+[b]￥30[-]
+[b]￥30[-]
+UI_UserTaskPanel_Title
+[b]任 务
+[b]Quest
+UI_MajorCityPanel_Root_VipBtn_NoVip
+[b]未购买
+[b]Subscribe!
+UI_MajorCityPanel_Root_VipBtn_HasVip_VipLabel1
+[b]剩余
+[b]Left
+UI_MajorCityPanel_Root_VipBtn_HasVip_VipLabel2
+[b]天
+[b]Days
+code_worldchatpanel_0
+还没输入信息
+No message is typed.
+code_worldchatpanel_1
+请不要太快发送
+Please wait a while.
+code_herohandbookpanel_0
+英雄固定技能阶级跟随英雄阶级提升
+Talent skill upgrades when General levels up.
+code_herohandbookpanel_1
+头像修改成功
+New portrait is set.
+code_herohandbookpanel_2
+功能暂未开放
+This function is under construction!
+code_unitdetailpanel_0
+金币不足
+Not enough gold
+code_unitdetailpanel_1
+解锁
+Unlock 
+code_unitdetailpanel_2
+升阶
+Upgrade 
+code_unitdetailpanel_3
+%s%s将消耗%s金币
+%s%s will cost you %s Gold.
+code_unitdetailpanel_4
+功能暂未开放
+This function is under construction!
+code_battletalksettingpanel_0
+请确保输入的内容在2~32个字符
+2~32 bits maximum.
+code_battletalksettingpanel_1
+金币不足%s
+You need %s Gold.
+code_battletalksettingpanel_2
+确定要花费%s金币修改战场表情吗?
+Are you sure to use %s Gold to change your Battle Emoji?
+code_majorcitypanel_0
+设置成功，下一次启动游戏将会生效
+Setting changed. Please login again to refresh.
+code_userinfopanel_0
+功能尚未开放
+This function is under construction!
+code_userinfopanel_1
+新晋团长
+New Commander
+code_taptapandroidplatformmanager_1
+手机号码或者验证码出错
+Wrong cell phone number or verify code
+code_taptaploginscreenpanel_0
+验证码已发往您的手机，请注意查收
+We have send verify code to your phone number, please check it
+code_taptaploginscreenpanel_1
+您的登录记录已过期，请重新登录
+Login expired, please login again
+code_taptaploginscreenpanel_2
+登录超时，请检查网络状况
+Login error, please check your internet connection
+code_taptaploginscreenpanel_3
+登录过程发生了一些问题，请尝试重新登录
+There are some errors, please try again
+code_taptaploginscreenpanel_4
+QQ登录时网络异常，请尝试重新登录
+QQ登录时网络异常，请尝试重新登录
+code_taptaploginscreenpanel_5
+没有安装手机QQ，请下载最新版本并安装
+没有安装手机QQ，请下载最新版本并安装
+code_taptaploginscreenpanel_6
+手机QQ版本过低，请更新您的手机QQ
+手机QQ版本过低，请更新您的手机QQ
+code_taptaploginscreenpanel_7
+没有安装微信，请下载最新版本并安装
+没有安装微信，请下载最新版本并安装
+code_taptaploginscreenpanel_8
+微信版本过低，请更新您的微信
+微信版本过低，请更新您的微信
+code_taptaploginscreenpanel_9
+登录过期，请尝试重新登录
+登录过期，请尝试重新登录
+code_taptaploginscreenpanel_10
+没有实名认证，请尝试重新登录
+没有实名认证，请尝试重新登录
+code_taptaploginscreenpanel_11
+登录过程中出现问题，请尝试重新登录
+登录过程中出现问题，请尝试重新登录
+code_taptaploginscreenpanel_13
+登录出现问题 %s
+登录出现问题 %s
+code_taptaploginscreenpanel_14
+获取验证码
+获取验证码
+code_taptaploginscreenpanel_15
+%s秒后再试
+%s秒后再试
+code_tencentloginscreenpanel_0
+QQ登录时网络异常，请尝试重新登录
+QQ登录时网络异常，请尝试重新登录
+code_tencentloginscreenpanel_1
+没有安装手机QQ，请下载最新版本并安装
+没有安装手机QQ，请下载最新版本并安装
+code_tencentloginscreenpanel_2
+手机QQ版本过低，请更新您的手机QQ
+手机QQ版本过低，请更新您的手机QQ
+code_tencentloginscreenpanel_3
+没有安装微信，请下载最新版本并安装
+没有安装微信，请下载最新版本并安装
+code_tencentloginscreenpanel_4
+微信版本过低，请更新您的微信
+微信版本过低，请更新您的微信
+code_tencentloginscreenpanel_5
+登录过期，请尝试重新登录
+登录过期，请尝试重新登录
+code_tencentloginscreenpanel_6
+没有实名认证，请尝试重新登录
+没有实名认证，请尝试重新登录
+code_tencentloginscreenpanel_7
+登录过程中出现问题，请尝试重新登录
+登录过程中出现问题，请尝试重新登录
+code_tencentplatformmanager_0
+帐号登录过期，是否现在立即重新登录？
+帐号登录过期，是否现在立即重新登录？
+code_tencentplatformmanager_1
+重登
+重登
+code_tencentplatformmanager_2
+下次
+下次
+code_tencentplatformmanager_3
+支付中出现异常，请尝试重新支付
+支付中出现异常，请尝试重新支付
+code_tencentplatformmanager_4
+充值成功!
+充值成功!
+UI_TapTapLoginScreenPanel_Root_Login_SelectLoginModule_Title
+登 录
+Login
+UI_TapTapLoginScreenPanel_Root_Login_SelectLoginModule_PhoneLogin_BtnPhoneLoginReg_Label
+[b]注册帐号
+[b]Register
+UI_TapTapLoginScreenPanel_Root_Login_SelectLoginModule_PhoneLogin_BtnPhoneModifyPassworld_Label
+[b]修改密码
+[b]Change password
+UI_TapTapLoginScreenPanel_Root_Login_SelectLoginModule_MPBtnLogin_Label
+[b]登 录
+[b]Login
+UI_TapTapLoginScreenPanel_Root_Login_SelectLoginModule_BtnWXLogin_Label
+[b]微信登录
+[b]Wechat Login
+UI_TapTapLoginScreenPanel_Root_Login_SelectLoginModule_BtnQQLogin_Label
+[b]QQ登录
+[b]QQ Login
+UI_TapTapLoginScreenPanel_Root_Login_SelectLoginModule_MPAccount_Label
+输入手机号码
+输入手机号码
+UI_TapTapLoginScreenPanel_Root_Login_SelectLoginModule_MPAccount_what
+帐号
+帐号
+UI_TapTapLoginScreenPanel_Root_Login_SelectLoginModule_MPPassworld_Label
+6~32 个字符
+6~32 个字符
+UI_TapTapLoginScreenPanel_Root_Login_SelectLoginModule_MPPassworld_what
+密码
+密码
+UI_TapTapLoginScreenPanel_Root_Register_MobilePhoneModule_MPRAccount_what (1)
+手机号码
+手机号码
+UI_TapTapLoginScreenPanel_Root_Register_MobilePhoneModule_MPRAccount_Label (1)
+请输入手机号码
+请输入手机号码
+UI_TapTapLoginScreenPanel_Root_Register_MobilePhoneModule_MPRPassworld_Label (2)
+6~32 个字符
+6~32 个字符
+UI_TapTapLoginScreenPanel_Root_Register_MobilePhoneModule_MPRPassworld_what (2)
+输入密码
+输入密码
+UI_TapTapLoginScreenPanel_Root_Register_MobilePhoneModule_MPRAuthCode_what (3)
+验证码
+验证码
+UI_TapTapLoginScreenPanel_Root_Register_MobilePhoneModule_MPRBtnRegister_Label
+[b]注 册
+[b]注 册
+UI_TapTapLoginScreenPanel_Root_Register_MobilePhoneModule_MPRBtnAuthCode_AuthCode
+[b]获取验证码
+[b]获取验证码
+UI_TapTapLoginScreenPanel_Root_Register_MobilePhoneModule_Title (1)
+注 册
+Register
+UI_TencentLoginScreenPanel_RechargeTest_Label
+充值测试
+充值测试
+UI_TencentLoginScreenPanel_RechargeTest2_Label
+充值测试2
+充值测试2
+UI_TencentLoginScreenPanel_GameLoginStatus_Login_Label
+登录游戏
+Login
+UI_TencentLoginScreenPanel_GameLoginStatus_Logout_Label
+出
+Logout
+UI_TencentLoginScreenPanel_TencentLoginStatus_QQLogin_Label
+QQ登录
+QQ Login
+UI_TencentLoginScreenPanel_TencentLoginStatus_WXLogin_Label
+WX登录
+WX Login
+UI_WarehousePanel__bk_bg_1 (1)_title (1)
+[b]仓 库
+[b]仓 库
+UI_WarehousePanel_Filter_FilterButtons_All_Selected_Label
+[b]全部
+[b]全部
+UI_WarehousePanel_Filter_FilterButtons_All_Unselected_Label (1)
+[b]全部
+[b]全部
+UI_WarehousePanel_Filter_FilterButtons_Unit_Selected_Label
+[b]单位
+[b]单位
+UI_WarehousePanel_Filter_FilterButtons_Unit_Unselected_Label (1)
+[b]单位
+[b]单位
+UI_WarehousePanel_Filter_FilterButtons_Arsenal_Selected_Label
+[b]军备
+[b]军备
+UI_WarehousePanel_Filter_FilterButtons_Arsenal_Unselected_Label (1)
+[b]军备
+[b]军备
+UI_WarehousePanel_BackBtn
+返回
+Back
+UI_WarehouseSellPanel_Window__bk_Label
+出 售
+出 售
+UI_WarehouseSellPanel_Window_MaxBtn_Label
+最大
+最大
+UI_WarehouseSellPanel_Window_MinBtn_Label
+最小
+最小
+UI_WarehouseSellPanel_Window_SellBtn_Label
+[b]出 售
+[b]出 售
+UI_WarehouseSellPanel_Window_SellGold
+[b]出售获得
+[b]出售获得
+UI_JoinBattlePanel_tile
+特洛伊之战
+特洛伊之战
+UI_JoinBattlePanel_camp_timetile
+战役剩余时间
+战役剩余时间
+UI_JoinBattlePanel_camp_leftcamp
+克拉斯塔尔联邦
+克拉斯塔尔联邦
+UI_JoinBattlePanel_camp_rightcamp
+克拉斯塔尔联邦
+克拉斯塔尔联邦
+UI_JoinBattlePanel_camp_leftjoin_leftjoinbtn
+加入阵营
+加入阵营
+UI_JoinBattlePanel_camp_rightjoin_rightjoinbtn
+加入阵营
+加入阵营
+UI_JoinBattlePanel_rank_leftrank_Label
+排行榜
+Leaderboard
+UI_JoinBattlePanel_rank_rightrank_Label
+排行榜
+Leaderboard
+UI_JoinBattlePanel_leftaward_Label
+奖励
+Reward
+UI_JoinBattlePanel_rightaward_Label
+奖励
+Reward
+UI_JoinBattlePanel_leftinfo_winratetile
+战斗胜率：
+战斗胜率：
+UI_JoinBattlePanel_leftinfo_jointile
+参战人数：
+参战人数：
+UI_JoinBattlePanel_leftinfo_totaltile
+累计战功：
+累计战功：
+UI_JoinBattlePanel_rightinfo_winratetile
+战斗胜率：
+战斗胜率：
+UI_JoinBattlePanel_rightinfo_jointile
+参战人数：
+参战人数：
+UI_JoinBattlePanel_rightinfo_totaltile
+累计战功：
+累计战功：
+UI_JoinBattlePanel_joinedtip
+已加入克拉斯塔尔联邦
+已加入克拉斯塔尔联邦
+UI_JoinBattlePanel_jointip
+请点击加入阵营，加入当前战役
+请点击加入阵营，加入当前战役
+UI_UnitHandbookPanel_Filter_FilterButtons_Vizegeneral_Unselected_Label (1)
+[b]副将
+[b]Hero
+code_expressionsenderpanel_1
+请不要发送过于频繁
+Please don't send too frequently.
+code_f_unit_unlocktype_tip_s1
+限定英雄，无法通过金币解锁。
+This is a limited Hero, can't be unlocked with Gold.
+code_f_unit_unlocktype_tip_s2
+限定佣兵，无法通过金币解锁。
+This is a limited Merc, can't be unlocked with Gold.
+code_f_unit_unlocktype_tip_s3
+限定军备，无法通过金币解锁。
+This is a limited Armament, can't be unlocked with Gold.
+code_joinbattlepanel_1
+我方阵营
+Friendly
+code_joinbattlepanel_2
+敌方阵营
+Enemy
+code_joinbattlepanel_5
+已加入
+Joined
+code_joinbattlepanel_6
+确定加入 [B6361CFF]%s[-] 吗？\r\n战役进行中不可更换阵营
+Sure to join  [B6361CFF]%s[-] ?\r\n You can't switch sides in campaign.
+code_winawardpanel_1
+错误代码: 
+Error Code: 
+code_herohandbookpanel_3
+金币不足
+Not enough Gold.
+code_herohandbookpanel_4
+解锁
+Unlock
+code_herohandbookpanel_5
+升阶
+Upgrade
+code_herohandbookpanel_6
+%s%s将消耗%s金币
+%s %s will cost you %s Gold.
+code_f_error_default
+游戏发生错误
+游戏发生错误
+code_f_error_code_0
+成功
+成功
+code_f_error_code_1
+失败
+失败
+code_f_error_code_2
+未知错误
+未知错误
+code_f_error_code_3
+用户名或密码输入错误
+用户名或密码输入错误
+code_f_error_code_4
+配置错误
+配置错误
+code_f_error_code_100
+用户未登陆
+用户未登陆
+code_f_error_code_101
+用户已登陆
+用户已登陆
+code_f_error_code_102
+错误的登陆信息
+错误的登陆信息
+code_f_error_code_103
+用户不存在
+用户不存在
+code_f_error_code_104
+无错误信息
+无错误信息
+code_f_error_code_105
+无错误信息
+无错误信息
+code_f_error_code_106
+无错误信息
+无错误信息
+code_f_error_code_107
+昵称已设置
+昵称已设置
+code_f_error_code_108
+昵称已存在
+昵称已存在
+code_f_error_code_109
+无错误信息
+无错误信息
+code_f_error_code_110
+不能邀请自己
+不能邀请自己
+code_f_error_code_111
+用户名已存在
+用户名已存在
+code_f_error_code_112
+用户名或密码输入错误
+用户名或密码输入错误
+code_f_error_code_200
+等级不足
+等级不足
+code_f_error_code_300
+单位不存在
+单位不存在
+code_f_error_code_301
+单位配置不存在
+单位配置不存在
+code_f_error_code_302
+单位ex配置不存在
+单位ex配置不存在
+code_f_error_code_303
+单位技能ex配置不存在
+单位技能ex配置不存在
+code_f_error_code_304
+非英雄单位
+非英雄单位
+code_f_error_code_305
+单位非空闲
+单位非空闲
+code_f_error_code_306
+单位存在
+单位存在
+code_f_error_code_307
+单位等级不存在
+单位等级不存在
+code_f_error_code_308
+单位下一等级不存在
+单位下一等级不存在
+code_f_error_code_309
+单位技能等级不足
+单位技能等级不足
+code_f_error_code_310
+单位技能下一等级不存在
+单位技能下一等级不存在
+code_f_error_code_311
+单位技能不存在
+单位技能不存在
+code_f_error_code_312
+单位类型无效
+单位类型无效
+code_f_error_code_313
+单位数量不足
+单位数量不足
+code_f_error_code_314
+单位不能由用户解锁
+单位不能由用户解锁
+code_f_error_code_500
+仓库不存在
+非法的队伍编号
+code_f_error_code_501
+物品不存在
+非法的队伍单位
+code_f_error_code_502
+物品不存在
+非法的队伍位置
+code_f_error_code_503
+物品不存在
+非法的队伍单位ID
+code_f_error_code_504
+错误的物品
+非法的队伍数量
+code_f_error_code_505
+物品数量不足
+非法的队伍单位类型
+code_f_error_code_506
+物品数量不足
+主将不存在
+code_f_error_code_507
+物品数量无效
+
+code_f_error_code_600
+非法的队伍编号
+任务组不存在
+code_f_error_code_601
+非法的队伍单位
+任务组配置不存在
+code_f_error_code_602
+非法的队伍位置
+任务不存在
+code_f_error_code_603
+非法的队伍单位ID
+任务配置不存在
+code_f_error_code_604
+非法的队伍数量
+任务稀有度配置不存在
+code_f_error_code_605
+非法的队伍单位类型
+任务等级限制
+code_f_error_code_606
+主将不存在
+任务接受数量限制
+code_f_error_code_694
+队伍中有未解锁单位，无法出战
+队伍中有未解锁单位，无法出战
+code_f_error_code_696
+队伍中有不符合国籍的单位，无法出战
+队伍中有不符合国籍的单位，无法出战
+code_f_error_code_697
+队伍配置未完整，无法出战
+队伍配置未完整，无法出战
+code_f_error_code_698
+金币不足，无法出战
+金币不足，无法出战
+code_f_error_code_900
+任务组不存在
+任务组不存在
+code_f_error_code_901
+任务组配置不存在
+任务组配置不存在
+code_f_error_code_902
+任务不存在
+任务不存在
+code_f_error_code_903
+任务配置不存在
+任务配置不存在
+code_f_error_code_904
+任务稀有度配置不存在
+任务稀有度配置不存在
+code_f_error_code_905
+任务等级限制
+任务等级限制
+code_f_error_code_906
+任务接受数量限制
+任务接受数量限制
+code_f_error_code_907
+单位数量不足
+单位数量不足
+code_f_error_code_908
+任务已到时
+任务已到时
+code_f_error_code_909
+任务未完成
+任务未完成
+code_f_error_code_5000
+无用的信息
+无用的信息
+code_f_error_code_5001
+无用的信息
+无用的信息
+code_f_error_code_1000
+战斗实例不存在
+战斗实例不存在
+code_f_error_code_1001
+非法的阵营ID
+非法的阵营ID
+code_f_error_code_1002
+用户已经报名战役
+用户已经报名战役
+code_f_error_code_1003
+用户未报名战役
+用户未报名战役
+code_f_error_code_1004
+用户不在战斗中
+用户不在战斗中
+code_f_error_code_1005
+用户已经在战斗中
+用户已经在战斗中
+code_f_error_code_1006
+非法的排名配置
+非法的排名配置
+code_f_error_code_1007
+非法的奖励编号
+非法的奖励编号
+code_f_error_code_1008
+奖励已领取
+奖励已领取
+code_f_error_code_1009
+军功点数不足
+军功点数不足
+code_f_error_code_1010
+战场服务器不可用
+战场服务器不可用
+code_f_error_code_1011
+战斗未结束
+战斗未结束
+code_f_error_code_1012
+用户未参加战斗
+用户未参加战斗
+code_f_error_code_1013
+用户已领取奖励
+用户已领取奖励
+code_f_error_code_1014
+竞技场不存在
+竞技场不存在
+code_f_error_code_1015
+竞技场已满
+竞技场已满
+code_f_error_code_1016
+竞技场队伍已配置
+竞技场队伍已配置
+code_f_error_code_1017
+用户不在竞技场中
+用户不在竞技场中
+code_f_error_code_1100
+战斗结束了
+战斗结束了
+code_f_error_code_1101
+无报错信息
+无报错信息
+code_f_error_code_1102
+无报错信息
+无报错信息
+code_f_error_code_1103
+无报错信息
+无报错信息
+code_f_error_code_1140
+已经胜利结束了
+已经胜利结束了
+code_f_error_code_1141
+没有cost
+没有cost
+code_f_error_code_1142
+没有士气
+没有士气
+code_f_error_code_1143
+指定的单位已经死亡
+指定的单位已经死亡
+code_f_error_code_1144
+指定单位不存在被挑衅的列表中
+指定单位不存在被挑衅的列表中
+code_f_error_code_1145
+已经换过卡牌了
+已经换过卡牌了
+code_f_error_code_1146
+不是你的回合
+不是你的回合
+code_f_error_code_1147
+找不到实例ID
+找不到实例ID
+code_f_error_code_1148
+放置的地图位置不正确
+放置的地图位置不正确
+code_f_error_code_1149
+没位置了，地图布满了
+没位置了，地图布满了
+code_f_error_code_1150
+目标已经死亡
+目标已经死亡
+code_f_error_code_1151
+战场单位已满
+战场单位已满
+code_f_error_code_1152
+回合计时结束
+回合计时结束
+code_f_error_code_1153
+起始点不存在
+起始点不存在
+code_f_error_code_1154
+自身无法进行移动，客户端可能因为某些技能造成计算上的错误
+自身无法进行移动，客户端可能因为某些技能造成计算上的错误
+code_f_error_code_1155
+自身无法进行攻击，客户端可能因为某些技能造成计算上的错误
+自身无法进行攻击，客户端可能因为某些技能造成计算上的错误
+code_f_error_code_1156
+不能进行刷新操作
+不能进行刷新操作
+code_f_error_code_1157
+单位不能被操控
+单位不能被操控
+code_f_error_code_1200
+出价无效
+出价无效
+code_f_error_code_1201
+商品不存在
+商品不存在
+code_f_error_code_1202
+出价过低
+出价过低
+code_f_error_code_1203
+重复出价
+重复出价
+code_f_error_code_1204
+自己的商品不可出价
+自己的商品不可出价
+code_f_error_code_1300
+成就不存在
+成就不存在
+code_f_error_code_1301
+前置成就不存在
+前置成就不存在
+code_f_error_code_1302
+成就未完成
+成就未完成
+code_f_error_code_1303
+前置成就未完成
+前置成就未完成
+code_f_error_code_1304
+成就奖励已领取
+成就奖励已领取
+code_f_error_code_1305
+非法的客户端成就标签
+非法的客户端成就标签
+code_f_error_code_1400
+神秘商店不存在
+神秘商店不存在
+code_f_error_code_1401
+神秘商店配置不存在
+神秘商店配置不存在
+code_f_error_code_1402
+神秘商店商品不存在
+神秘商店商品不存在
+code_f_error_code_1500
+无报错信息
+无报错信息
+code_f_error_code_1501
+无报错信息
+无报错信息
+code_f_error_code_1502
+无报错信息
+无报错信息
+code_f_error_code_1600
+无报错信息
+无报错信息
+code_f_error_code_1601
+无报错信息
+无报错信息
+code_f_error_code_1700
+礼包码错误
+礼包码错误
+code_f_error_code_1701
+礼包码已被领取
+礼包码已被领取
+code_f_error_code_1702
+用户已领取过礼包
+用户已领取过礼包
+code_f_error_code_1800
+在向微信服务器获取订单号时出现问题，具体看log文件
+在向微信服务器获取订单号时出现问题，具体看log文件
+code_f_error_code_1801
+同一时间产生了重复订单
+同一时间产生了重复订单
+code_f_newbie_help_text
+各位团长大人，神眷大陆是一个对战为主的世界，身为佣兵团长，您要做的就是不断战斗的同时，赚取足够的金钱，强化战斗力成为大陆第一佣兵团。\r\n    您可以通过主界面的“出征”按钮进入匹配，寻找其他团长对战。\r\n    佣兵团嘛就是卖剑的，只要战斗，就可以获得金币报酬。但雇佣佣兵和购买装备和法术作战是需要花钱的，每次出战还需要扣除一定金币作为工资和补给费用，一不小心就会亏本。但如果在战斗中战胜战力比自己高的对手可以获得更多金币奖励，而取得连续胜利也会获得更多金币奖励哟。\r\n    您可以在编队界面和匹配界面看到一支编组完毕的队伍的出战费用。\r\n    英雄都是仰慕团长大人您的个人魅力才加入佣兵团的，因此队伍中中的英雄和英雄自带的英雄技能是不会产生出战费用的。另外由于大陆佣兵总会的大力支持，低阶（绿色）的佣兵和军备单位也是免费使用的，只有高级（蓝色和紫色）的佣兵和军备单位才收钱。如果团长大人您经济拮据，不足以支付高级队伍的出战费用时，只要使用免费佣兵和军备组成队伍出战就一定赚取金币啦。\r\n    团长大人，您只要带领您的队伍不断战斗，就可以完成佣兵公会发布的任务和挑战成就。完成任务和成就可以获得金币和补给（卡包）奖励。而每天都可以重复完成每日任务获得奖励。\r\n    当团长大人您获得一名新英雄的效忠后，会解锁和这名英雄相关的列传关卡。列传关卡不需要使用团长大人您自己的队伍，您会获得一支固定的队伍，并必须在一回合内获胜，胜利后获得关卡通关奖励。再次挑战已经完成的关卡将不再会获得奖励。\r\n    补给站是大陆佣兵公会设立的用来用更便宜的价格随机获得英雄，佣兵，军备的机构。（就是抽奖啦）团长大人您可以在补给站花费金币购买补给（卡包）并打开它们。除了少数英雄和佣兵军备外，大部分英雄、英雄技能、佣兵、军备都可以随机获得。如果重复获得将会自动折价转换为金币返还。\r\n    如果团长大人您不喜欢不确定的花钱方式或者您的脸比较黑，您可以选择在英雄图鉴和佣兵图鉴直接花费固定金额的金币来获得某个英雄或佣兵的效忠以及制作某个军备的方法。除了少数英雄和佣兵军备外，大部分英雄、英雄技能、佣兵、军备都可以通过图鉴直接花费金币解锁。\r\n    还可以通过战斗提升佣兵总会的佣兵团评级认定（天梯等级）。同其他佣兵团长进行战斗并获胜后，可以获得星数，提升佣兵团阶级。取得一次战斗胜利获得一颗星，取得连续战斗胜利可以获得两颗星，而战斗失败将失去一颗星。\r\n    大陆佣兵总会每个赛季都会公布佣兵团之间的各项数据的排名，参与战斗可以更新各个排行榜的数据，排行榜的名次根据当前赛季的数据排列，赛季结束后，各个排行榜的排名奖励通过邮件发放您手中。部分特别的英雄和佣兵军备单位只能通过争夺排行榜的名次才有可能获得哦。\r\n    佣兵团在战斗中，每回合可以上阵的佣兵和使用的技能军备是随机的，每个团长在每次战斗中可以使用两次免费的机会来随机替换每回合的出场阵容（更换手牌），之后再次使用将收取额外的金币费用。\r\n    如果团长大人您觉得孤身一人在神眷大陆奋战过于寂寞 ，您可以通过神秘的分享功能，生成一个神秘的微信页面链接，转发给你的现实好友，告知他们神眷大陆是一个多么有意思的世界和你的邀请码。只要您的朋友也来到这个世界并正确输入了你的邀请码，达成一定条件后，双方都可以获得大陆佣兵总会发放的丰厚奖励。友情提醒：有几位神秘的特殊英雄只能通过这种分享邀请的方式才能获得哦。\r\n    最后最后，这绝对不是推销！只要购买大陆佣兵总会独家发行，艾诺利亚教皇陛下亲笔签名的佣兵工会认证“月卡”，就能获得更多的战斗金币报酬和额外两次战斗中的免费更换阵容（卡组）机会哦。
+各位团长大人，神眷大陆是一个对战为主的世界，身为佣兵团长，您要做的就是不断战斗的同时，赚取足够的金钱，强化战斗力成为大陆第一佣兵团。\r\n    您可以通过主界面的“出征”按钮进入匹配，寻找其他团长对战。\r\n    佣兵团嘛就是卖剑的，只要战斗，就可以获得金币报酬。但雇佣佣兵和购买装备和法术作战是需要花钱的，每次出战还需要扣除一定金币作为工资和补给费用，一不小心就会亏本。但如果在战斗中战胜战力比自己高的对手可以获得更多金币奖励，而取得连续胜利也会获得更多金币奖励哟。\r\n    您可以在编队界面和匹配界面看到一支编组完毕的队伍的出战费用。\r\n    英雄都是仰慕团长大人您的个人魅力才加入佣兵团的，因此队伍中中的英雄和英雄自带的英雄技能是不会产生出战费用的。另外由于大陆佣兵总会的大力支持，低阶（绿色）的佣兵和军备单位也是免费使用的，只有高级（蓝色和紫色）的佣兵和军备单位才收钱。如果团长大人您经济拮据，不足以支付高级队伍的出战费用时，只要使用免费佣兵和军备组成队伍出战就一定赚取金币啦。\r\n    团长大人，您只要带领您的队伍不断战斗，就可以完成佣兵公会发布的任务和挑战成就。完成任务和成就可以获得金币和补给（卡包）奖励。而每天都可以重复完成每日任务获得奖励。\r\n    当团长大人您获得一名新英雄的效忠后，会解锁和这名英雄相关的列传关卡。列传关卡不需要使用团长大人您自己的队伍，您会获得一支固定的队伍，并必须在一回合内获胜，胜利后获得关卡通关奖励。再次挑战已经完成的关卡将不再会获得奖励。\r\n    补给站是大陆佣兵公会设立的用来用更便宜的价格随机获得英雄，佣兵，军备的机构。（就是抽奖啦）团长大人您可以在补给站花费金币购买补给（卡包）并打开它们。除了少数英雄和佣兵军备外，大部分英雄、英雄技能、佣兵、军备都可以随机获得。如果重复获得将会自动折价转换为金币返还。\r\n    如果团长大人您不喜欢不确定的花钱方式或者您的脸比较黑，您可以选择在英雄图鉴和佣兵图鉴直接花费固定金额的金币来获得某个英雄或佣兵的效忠以及制作某个军备的方法。除了少数英雄和佣兵军备外，大部分英雄、英雄技能、佣兵、军备都可以通过图鉴直接花费金币解锁。\r\n    还可以通过战斗提升佣兵总会的佣兵团评级认定（天梯等级）。同其他佣兵团长进行战斗并获胜后，可以获得星数，提升佣兵团阶级。取得一次战斗胜利获得一颗星，取得连续战斗胜利可以获得两颗星，而战斗失败将失去一颗星。\r\n    大陆佣兵总会每个赛季都会公布佣兵团之间的各项数据的排名，参与战斗可以更新各个排行榜的数据，排行榜的名次根据当前赛季的数据排列，赛季结束后，各个排行榜的排名奖励通过邮件发放您手中。部分特别的英雄和佣兵军备单位只能通过争夺排行榜的名次才有可能获得哦。\r\n    佣兵团在战斗中，每回合可以上阵的佣兵和使用的技能军备是随机的，每个团长在每次战斗中可以使用两次免费的机会来随机替换每回合的出场阵容（更换手牌），之后再次使用将收取额外的金币费用。\r\n    如果团长大人您觉得孤身一人在神眷大陆奋战过于寂寞 ，您可以通过神秘的分享功能，生成一个神秘的微信页面链接，转发给你的现实好友，告知他们神眷大陆是一个多么有意思的世界和你的邀请码。只要您的朋友也来到这个世界并正确输入了你的邀请码，达成一定条件后，双方都可以获得大陆佣兵总会发放的丰厚奖励。友情提醒：有几位神秘的特殊英雄只能通过这种分享邀请的方式才能获得哦。\r\n    最后最后，这绝对不是推销！只要购买大陆佣兵总会独家发行，艾诺利亚教皇陛下亲笔签名的佣兵工会认证“月卡”，就能获得更多的战斗金币报酬和额外两次战斗中的免费更换阵容（卡组）机会哦。
+code_f_error_code_376200
+无报错信息
+无报错信息
+code_f_error_code_376201
+调用超时
+调用超时
+code_f_error_code_376202
+目标已经死亡
+目标已经死亡
+code_f_win_talk_task_Achievement
+完成成就目标，可以获得一次性奖励。努力吧，年轻的佣兵！
+完成成就目标，可以获得一次性奖励。努力吧，年轻的佣兵！
+code_f_win_talk_task_DailyQuest
+团长大人，一定要把每天的任务都完成哦，你会得到回报的！
+年轻人，一定要把每天的任务都完成哦，你会得到回报的！
+code_f_win_talk_shop_SysMall
+金币，你能得到很多的金币。首次购买还有优惠哟！
+金币，你能得到很多的金币。首次购买还有优惠哟！
+code_f_win_talk_shop_GiftPack
+滑动商品列表可以看到更多的组合包哦！
+滑动商品列表可以看到更多的组合包哦！
+code_f_win_talk_shop_CardPack
+每次都买卡包都能获得金币返利！
+每次都买卡包都能获得金币返利！
+code_f_win_talk_gocha
+快来打开卡包吧，说不定会有惊喜哦！
+快来打开卡包吧，说不定会有惊喜哦！

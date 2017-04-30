@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{BEAAB9BB-DD02-4027-95D3-4A1252EFA11B}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>Library</OutputType>
+    <AssemblyName>Assembly-CSharp-firstpass</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="UnityEngine">
+      <HintPath>..\assets\bin\Data\Managed\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>..\assets\bin\Data\Managed\UnityEngine.UI.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="EventSystemChecker.cs" />
+    <Compile Include="ForcedReset.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UnityStandardAssets.Cameras\AbstractTargetFollower.cs" />
+    <Compile Include="UnityStandardAssets.Cameras\AutoCam.cs" />
+    <Compile Include="UnityStandardAssets.Cameras\FreeLookCam.cs" />
+    <Compile Include="UnityStandardAssets.Cameras\HandHeldCam.cs" />
+    <Compile Include="UnityStandardAssets.Cameras\LookatTarget.cs" />
+    <Compile Include="UnityStandardAssets.Cameras\PivotBasedCameraRig.cs" />
+    <Compile Include="UnityStandardAssets.Cameras\ProtectCameraFromWallClip.cs" />
+    <Compile Include="UnityStandardAssets.Cameras\TargetFieldOfView.cs" />
+    <Compile Include="UnityStandardAssets.Characters.ThirdPerson\AICharacterControl.cs" />
+    <Compile Include="UnityStandardAssets.Characters.ThirdPerson\ThirdPersonCharacter.cs" />
+    <Compile Include="UnityStandardAssets.Characters.ThirdPerson\ThirdPersonUserControl.cs" />
+    <Compile Include="UnityStandardAssets.CrossPlatformInput.PlatformSpecific\MobileInput.cs" />
+    <Compile Include="UnityStandardAssets.CrossPlatformInput.PlatformSpecific\StandaloneInput.cs" />
+    <Compile Include="UnityStandardAssets.CrossPlatformInput\AxisTouchButton.cs" />
+    <Compile Include="UnityStandardAssets.CrossPlatformInput\ButtonHandler.cs" />
+    <Compile Include="UnityStandardAssets.CrossPlatformInput\CrossPlatformInputManager.cs" />
+    <Compile Include="UnityStandardAssets.CrossPlatformInput\InputAxisScrollbar.cs" />
+    <Compile Include="UnityStandardAssets.CrossPlatformInput\Joystick.cs" />
+    <Compile Include="UnityStandardAssets.CrossPlatformInput\MobileControlRig.cs" />
+    <Compile Include="UnityStandardAssets.CrossPlatformInput\TiltInput.cs" />
+    <Compile Include="UnityStandardAssets.CrossPlatformInput\TouchPad.cs" />
+    <Compile Include="UnityStandardAssets.CrossPlatformInput\VirtualInput.cs" />
+    <Compile Include="UnityStandardAssets.Effects\AfterburnerPhysicsForce.cs" />
+    <Compile Include="UnityStandardAssets.Effects\ExplosionFireAndDebris.cs" />
+    <Compile Include="UnityStandardAssets.Effects\ExplosionPhysicsForce.cs" />
+    <Compile Include="UnityStandardAssets.Effects\Explosive.cs" />
+    <Compile Include="UnityStandardAssets.Effects\ExtinguishableParticleSystem.cs" />
+    <Compile Include="UnityStandardAssets.Effects\FireLight.cs" />
+    <Compile Include="UnityStandardAssets.Effects\Hose.cs" />
+    <Compile Include="UnityStandardAssets.Effects\ParticleSystemMultiplier.cs" />
+    <Compile Include="UnityStandardAssets.Effects\SmokeParticles.cs" />
+    <Compile Include="UnityStandardAssets.Effects\WaterHoseParticles.cs" />
+    <Compile Include="UnityStandardAssets.ImageEffects\AAMode.cs" />
+    <Compile Include="UnityStandardAssets.ImageEffects\Antialiasing.cs" />
+    <Compile Include="UnityStandardAssets.ImageEffects\Bloom.cs" />
+    <Compile Include="UnityStandardAssets.ImageEffects\BloomAndFlares.cs" />
+    <Compile Include="UnityStandardAssets.ImageEffects\BloomOptimized.cs" />
+    <Compile Include="UnityStandardAssets.ImageEffects\BloomScreenBlendMode.cs" />
+    <Compile Include="UnityStandardAssets.ImageEffects\Blur.cs" />
+    <Compile Include="UnityStandardAssets.ImageEffects\BlurOptimized.cs" />
+    <Compile Include="UnityStandardAssets.ImageEffects\CameraMotionBlur.cs" />
+    <Compile Include="UnityStandardAssets.ImageEffects\ColorCorrectionCurves.cs" />
+    <Compile Include="UnityStandardAssets.ImageEffects\ColorCorrectionLookup.cs" />
+    <Compile Include="UnityStandardAssets.ImageEffects\ColorCorrectionRamp.cs" />
+    <Compile Include="UnityStandardAssets.ImageEffects\ContrastEnhance.cs" />
+    <Compile Include="UnityStandardAssets.ImageEffects\ContrastStretch.cs" />
+    <Compile Include="UnityStandardAssets.ImageEffects\CreaseShading.cs" />
+    <Compile Include="UnityStandardAssets.ImageEffects\DepthOfField.cs" />
+    <Compile Include="UnityStandardAssets.ImageEffects\DepthOfFieldDeprecated.cs" />
+    <Compile Include="UnityStandardAssets.ImageEffects\EdgeDetection.cs" />
+    <Compile Include="UnityStandardAssets.ImageEffects\Fisheye.cs" />
+    <Compile Include="UnityStandardAssets.ImageEffects\GlobalFog.cs" />
+    <Compile Include="UnityStandardAssets.ImageEffects\Grayscale.cs" />
+    <Compile Include="UnityStandardAssets.ImageEffects\HDRBloomMode.cs" />
+    <Compile Include="UnityStandardAssets.ImageEffects\ImageEffectBase.cs" />
+    <Compile Include="UnityStandardAssets.ImageEffects\ImageEffects.cs" />
+    <Compile Include="UnityStandardAssets.ImageEffects\LensflareStyle34.cs" />
+    <Compile Include="UnityStandardAssets.ImageEffects\MotionBlur.cs" />
+    <Compile Include="UnityStandardAssets.ImageEffects\NoiseAndGrain.cs" />
+    <Compile Include="UnityStandardAssets.ImageEffects\NoiseAndScratches.cs" />
+    <Compile Include="UnityStandardAssets.ImageEffects\PostEffectsBase.cs" />
+    <Compile Include="UnityStandardAssets.ImageEffects\PostEffectsHelper.cs" />
+    <Compile Include="UnityStandardAssets.ImageEffects\Quads.cs" />
+    <Compile Include="UnityStandardAssets.ImageEffects\ScreenOverlay.cs" />
+    <Compile Include="UnityStandardAssets.ImageEffects\ScreenSpaceAmbientObscurance.cs" />
+    <Compile Include="UnityStandardAssets.ImageEffects\ScreenSpaceAmbientOcclusion.cs" />
+    <Compile Include="UnityStandardAssets.ImageEffects\SepiaTone.cs" />
+    <Compile Include="UnityStandardAssets.ImageEffects\SunShafts.cs" />
+    <Compile Include="UnityStandardAssets.ImageEffects\TiltShift.cs" />
+    <Compile Include="UnityStandardAssets.ImageEffects\Tonemapping.cs" />
+    <Compile Include="UnityStandardAssets.ImageEffects\Triangles.cs" />
+    <Compile Include="UnityStandardAssets.ImageEffects\TweakMode34.cs" />
+    <Compile Include="UnityStandardAssets.ImageEffects\Twirl.cs" />
+    <Compile Include="UnityStandardAssets.ImageEffects\VignetteAndChromaticAberration.cs" />
+    <Compile Include="UnityStandardAssets.ImageEffects\Vortex.cs" />
+    <Compile Include="UnityStandardAssets.Utility\ActivateTrigger.cs" />
+    <Compile Include="UnityStandardAssets.Utility\AutoMobileShaderSwitch.cs" />
+    <Compile Include="UnityStandardAssets.Utility\AutoMoveAndRotate.cs" />
+    <Compile Include="UnityStandardAssets.Utility\CameraRefocus.cs" />
+    <Compile Include="UnityStandardAssets.Utility\CurveControlledBob.cs" />
+    <Compile Include="UnityStandardAssets.Utility\DragRigidbody.cs" />
+    <Compile Include="UnityStandardAssets.Utility\DynamicShadowSettings.cs" />
+    <Compile Include="UnityStandardAssets.Utility\FollowTarget.cs" />
+    <Compile Include="UnityStandardAssets.Utility\FOVKick.cs" />
+    <Compile Include="UnityStandardAssets.Utility\FPSCounter.cs" />
+    <Compile Include="UnityStandardAssets.Utility\LerpControlledBob.cs" />
+    <Compile Include="UnityStandardAssets.Utility\ObjectResetter.cs" />
+    <Compile Include="UnityStandardAssets.Utility\ParticleSystemDestroyer.cs" />
+    <Compile Include="UnityStandardAssets.Utility\PlatformSpecificContent.cs" />
+    <Compile Include="UnityStandardAssets.Utility\SimpleActivatorMenu.cs" />
+    <Compile Include="UnityStandardAssets.Utility\SimpleMouseRotator.cs" />
+    <Compile Include="UnityStandardAssets.Utility\SmoothFollow.cs" />
+    <Compile Include="UnityStandardAssets.Utility\TimedObjectActivator.cs" />
+    <Compile Include="UnityStandardAssets.Utility\TimedObjectDestructor.cs" />
+    <Compile Include="UnityStandardAssets.Utility\WaypointCircuit.cs" />
+    <Compile Include="UnityStandardAssets.Utility\WaypointProgressTracker.cs" />
+    <Compile Include="UnityStandardAssets.Water\Displace.cs" />
+    <Compile Include="UnityStandardAssets.Water\GerstnerDisplace.cs" />
+    <Compile Include="UnityStandardAssets.Water\MeshContainer.cs" />
+    <Compile Include="UnityStandardAssets.Water\PlanarReflection.cs" />
+    <Compile Include="UnityStandardAssets.Water\SpecularLighting.cs" />
+    <Compile Include="UnityStandardAssets.Water\Water.cs" />
+    <Compile Include="UnityStandardAssets.Water\WaterBase.cs" />
+    <Compile Include="UnityStandardAssets.Water\WaterBasic.cs" />
+    <Compile Include="UnityStandardAssets.Water\WaterQuality.cs" />
+    <Compile Include="UnityStandardAssets.Water\WaterTile.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
